@@ -82,33 +82,33 @@ C. Tercera opción.
 D. Cuarta opción.
 ANSWER:B
 
-B05-L11-Q13-Pregunta 1 Antonio:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L11-Q13- ¿Cuál es una ventaja dentro de los modelos de ciclos de vida del modelo incremental?:
+A. Es útil con proyectos complejos ya que todo queda bien definido desde un inicio.
+B. Se entrega a los usuarios algo de valor con cierta frecuencia.
+C. Incorpora objetivos de calidad y gestión de riesgos.
+D. Es muy útil a la hora de realizar una migración del software.
+ANSWER: B
 
-B05-L11-Q14-Pregunta 2 Antonio:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L11-Q14- ¿Qué determinan los modelos de procesos?:
+A. Las entradas, salidas, productos que se obtienen, como se trabaja.
+B. El orden en el que se van a desarrollar las fases de nuestro proyecto.
+C. Ninguna de las anteriores.
+D. El conjunto de procesos necesarios para llevar a cabo nuestro proyecto.
+ANSWER: D
 
-B05-L11-Q15-Pregunta 3 Antonio:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L11-Q15- Selecciona el orden correcto de las etapas de un proceso productivo cuyo objetivo es desarrollar software:
+A. Requisitos - Análisis de requisitos - Diseño - Implementación - Software funcionando y su mantenimiento - Pruebas.
+B. Requisitos - Análisis de requisitos - Implementación - Diseño - Pruebas - Software funcionando y su mantenimiento.
+C. Requisitos - Análisis de requisitos - Diseño - Implementación - Pruebas - Software funcionando y su mantenimiento.
+D. Ningun orden de los anteriores es correcto. 
+ANSWER: C
 
-B05-L11-Q16-Pregunta 4 Antonio:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L11-Q16- ¿Qué significa "stakeholder"?:
+A. Es cualquier persona u organización relacionada con el desarrollo del software.
+B. Es la forma en la que deben sucederse los procesos.
+C. Es el producto utilizado como entrada o generado como salida.
+D. Es un conjunto de tareas.
+ANSWER: A
 
 B05-L11-Q17-Pregunta 1 Marce:
 A. Primera opción.
