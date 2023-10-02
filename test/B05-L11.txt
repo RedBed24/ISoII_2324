@@ -92,9 +92,9 @@ ANSWER: B
 B05-L11-Q14- ¿Qué determinan los modelos de procesos?:
 A. Las entradas, salidas, productos que se obtienen, como se trabaja.
 B. El orden en el que se van a desarrollar las fases de nuestro proyecto.
-C. Ninguna de las anteriores.
-D. El conjunto de procesos necesarios para llevar a cabo nuestro proyecto.
-ANSWER: D
+C. El conjunto de procesos necesarios para llevar a cabo nuestro proyecto.
+D. Ninguna de las anteriores.
+ANSWER: C
 
 B05-L11-Q15- Selecciona el orden correcto de las etapas de un proceso productivo cuyo objetivo es desarrollar software:
 A. Requisitos - Análisis de requisitos - Diseño - Implementación - Software funcionando y su mantenimiento - Pruebas.
