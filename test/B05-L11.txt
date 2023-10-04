@@ -110,32 +110,32 @@ C. Es el producto utilizado como entrada o generado como salida.
 D. Es un conjunto de tareas.
 ANSWER: A
 
-B05-L11-Q17-Pregunta 1 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L11-Q17- Los procesos "de acuerdo" y "organizacionales de proyectos" son ejemplos de:
+A. procesos productivos
+B. procesos de gestión empresarial
+C. metodologías de desarrollo
+D. procesos de soporte al proceso productivo
+ANSWER:D
 
-B05-L11-Q18-Pregunta 2 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
+B05-L11-Q18- Un fallo del ciclo de vida en cascada es que:
+A. no es útil con proyectos complejos
+B. no se adapta bien cuando el equipo de desarrollo es inexperto
+C. no es secuencial
+D. no se obtienen resultados hasta el final 
+ANSWER: D
+
+B05-L11-Q19- Un artefacto en un proyecto software es:
+A. un conjunto de actividades relacionadas con el producto sucedidas siguiendo una ordenación temporal determinada
+B. un producto utilizado como entrada o generado como salida dentro del proyecto
+C. aquel aspecto que tiene que ver con el producto pero no con la producción del mismo
+D. cualquier participante que de manera interna o externa se relaciona con el producto 
 ANSWER: B
 
-B05-L11-Q19-Pregunta 3 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER: B
-
-B05-L11-Q20-Pregunta 4 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
+B05-L11-Q20- Para un proyecto en el cual tenemos muy claros los requisitos desde el inicio, ¿Qué modelo de ciclo de vida deberíamos utilizar?
+A. Espiral
+B. Cascada
+C. Flexible
+D. Incremental
 ANSWER:B
 
 B05-L11-Q21- ¿Se puede aplicar la metodología en espiral en la vida real?:
