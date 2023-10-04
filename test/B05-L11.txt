@@ -138,33 +138,33 @@ C. Tercera opción.
 D. Cuarta opción.
 ANSWER:B
 
-B05-L11-Q21-Pregunta 1 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
+B05-L11-Q21- ¿Se puede aplicar la metodología en espiral en la vida real?:
+A. No, es teórico, por tanto no se puede aplicar este únicamente.
+B. Sí, porque se pueden aplicar ideas de este a otras metodologías.
+C. Sí, por eso lo estudiamos, para usarlo.
+D. Sí, aunque no completamente.
+ANSWER: A
+
+B05-L11-Q22- ¿Cuál es un tipo de ciclo de vida?:
+A. Espiral.
+B. Cascada.
+C. SCRUM.
+D. Ágil.
 ANSWER: B
 
-B05-L11-Q22-Pregunta 2 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER: B
+B05-L11-Q23- ¿Qué pilar NO es uno del triángulo de los negocios?:
+A. Calidad.
+B. Funcionalidad.
+C. Tiempo o Duración.
+D. Dinero o Coste.
+ANSWER: A
 
-B05-L11-Q23-Pregunta 3 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER: B
-
-B05-L11-Q24-Pregunta 4 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER: B
+B05-L11-Q24- ¿Cuál no es un artefacto típico?
+A. Diagrama de clases.
+B. Código fuente.
+C. IDE.
+D. Diagrama de Casos de Uso.
+ANSWER: C
 
 B05-L11-Q25-Pregunta Extra:
 A. Primera opción.
