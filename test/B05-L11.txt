@@ -3,84 +3,84 @@ A. Primera opción.
 B. Opción correcta.
 C. Tercera opción.
 D. Cuarta opción.
-ANSWER:B
+ANSWER: B
 
 B05-L11-Q02-Pregunta 2 Noe:
 A. Primera opción.
 B. Opción correcta.
 C. Tercera opción.
 D. Cuarta opción.
-ANSWER:B
+ANSWER: B
 
 B05-L11-Q03-Pregunta 3 Noe:
 A. Primera opción.
 B. Opción correcta.
 C. Tercera opción.
 D. Cuarta opción.
-ANSWER:B
+ANSWER: B
 
 B05-L11-Q04-Pregunta 4 Noe:
 A. Primera opción.
 B. Opción correcta.
 C. Tercera opción.
 D. Cuarta opción.
-ANSWER:B
+ANSWER: B
 
-B05-L11-Q05-Pregunta 1 Dani:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L11-Q05- Según el modelo del triángulo de hierro, si se amplía el número de funcionalidades de un proyecto...:
+A. Es probable que se requiera más tiempo y/o mayor coste para completarlo.
+B. Es posible que sea adecuado utilizar un modelo de ciclo de vida incremental para abarcarlas.
+C. Aseguraremos un aumento de la calidad del producto o servicio.
+D. Actuaremos según sopesemos las tres variables del modelo: tiempo, coste y calidad.
+ANSWER: A
 
-B05-L11-Q06-Pregunta 2 Dani:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L11-Q06- Elige la afirmación correcta:
+A. Las metodologías ágiles siguen un ciclo de vida en cascada.
+B. Un cliente no puede cumplir el papel de usuario.
+C. Los stakeholders pueden ser tanto empleados como clientes y usuarios.
+D. El Proceso Unificado de Desarrollo (PUD) es una metodología estructurada, no orientada a objetos.
+ANSWER: C
 
-B05-L11-Q07-Pregunta 3 Dani:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L11-Q07- El orden en el que van a suceder las fases de nuestro proyecto lo determinan...:
+A. Los Modelos de Procesos.
+B. Los Modelos de Ciclo de Vida.
+C. Los Procesos de Negocio.
+D. Las Metodologías de Desarrollo.
+ANSWER: B
 
-B05-L11-Q08-Pregunta 4 Dani:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L11-Q08- ¿Cuáles de las siguientes siglas NO corresponde a una organización dedicada a la estandarización y normalización?:
+A. ISO.
+B. W3C.
+C. IEEE.
+D. CASE.
+ANSWER: D
 
 B05-L11-Q09-Pregunta 1 Fran:
 A. Primera opción.
 B. Opción correcta.
 C. Tercera opción.
 D. Cuarta opción.
-ANSWER:B
+ANSWER: B
 
 B05-L11-Q10-Pregunta 2 Fran:
 A. Primera opción.
 B. Opción correcta.
 C. Tercera opción.
 D. Cuarta opción.
-ANSWER:B
+ANSWER: B
 
 B05-L11-Q11-Pregunta 3 Fran:
 A. Primera opción.
 B. Opción correcta.
 C. Tercera opción.
 D. Cuarta opción.
-ANSWER:B
+ANSWER: B
 
 B05-L11-Q12-Pregunta 4 Fran:
 A. Primera opción.
 B. Opción correcta.
 C. Tercera opción.
 D. Cuarta opción.
-ANSWER:B
+ANSWER: B
 
 B05-L11-Q13- ¿Cuál es una ventaja dentro de los modelos de ciclos de vida del modelo incremental?:
 A. Es útil con proyectos complejos ya que todo queda bien definido desde un inicio.
@@ -122,14 +122,14 @@ A. Primera opción.
 B. Opción correcta.
 C. Tercera opción.
 D. Cuarta opción.
-ANSWER:B
+ANSWER: B
 
 B05-L11-Q19-Pregunta 3 Marce:
 A. Primera opción.
 B. Opción correcta.
 C. Tercera opción.
 D. Cuarta opción.
-ANSWER:B
+ANSWER: B
 
 B05-L11-Q20-Pregunta 4 Marce:
 A. Primera opción.
@@ -143,33 +143,33 @@ A. Primera opción.
 B. Opción correcta.
 C. Tercera opción.
 D. Cuarta opción.
-ANSWER:B
+ANSWER: B
 
 B05-L11-Q22-Pregunta 2 Samu:
 A. Primera opción.
 B. Opción correcta.
 C. Tercera opción.
 D. Cuarta opción.
-ANSWER:B
+ANSWER: B
 
 B05-L11-Q23-Pregunta 3 Samu:
 A. Primera opción.
 B. Opción correcta.
 C. Tercera opción.
 D. Cuarta opción.
-ANSWER:B
+ANSWER: B
 
 B05-L11-Q24-Pregunta 4 Samu:
 A. Primera opción.
 B. Opción correcta.
 C. Tercera opción.
 D. Cuarta opción.
-ANSWER:B
+ANSWER: B
 
 B05-L11-Q25-Pregunta Extra:
 A. Primera opción.
 B. Opción correcta.
 C. Tercera opción.
 D. Cuarta opción.
-ANSWER:B
+ANSWER: B
 
