@@ -138,39 +138,39 @@ C. Tercera opción.
 D. Cuarta opción.
 ANSWER:B
 
-B05-L12-Q21-Pregunta 1 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
+B05-L12-Q21- ¿Cuales son los requisitos no funcionales de un proyecto software?
+A. Las restricciones del mismo tales como el lenguaje de programación a utilizar, el alcance del soporte de la aplicación...
+B. Aquellos con sin los cuales el software no podría funcionar 
+C. Aquello que representan los casos de uso del proyecto
+D. Ninguno de las anteriores
+ANSWER:A
+
+B05-L12-Q22- ¿Cual de los siguientes no es un criterio de elección de casos de uso críticos en un proyecto software?
+A. La importancia para el cliente
+B. La facilidad de implementación
+C. Que sea independiente de los demás
+D. Que reduzca la mayor cantidad de riesgos
 ANSWER:B
 
-B05-L12-Q22-Pregunta 2 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L12-Q23- ¿Cual de las siguientes no es una disciplina del proceso unificado de desarrollo?
+A. Gestión de personal
+B. Requisitos
+C. Pruebas
+D. Implementación
+ANSWER:A
 
-B05-L12-Q23-Pregunta 3 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L12-Q24- ¿Que significa que el equipo de desarrollo en una metodología SCRUM debe ser multifuncional?
+A. Todas las actividades pueden ser realizadas por el equipo como conjunto
+B. Todos los miembros del equipo pueden realizar todas las actividades
+C. El equipo debe ser capaz de comunicarse con el cliente de manera óptima
+D. Ninguna de las anteriores
+ANSWER:A
 
-B05-L12-Q24-Pregunta 4 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
-
-B05-L12-Q25-Pregunta 5 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
+B05-L12-Q25- ¿Quén es el encargado de determinar la estimación de una "Historia de usuario"?
+A. Cliente
+B. Equipo de desarrollo
+C. Product Owner
+D. Scrum Master
 ANSWER:B
 
 B05-L12-Q26-Pregunta 1 Samu:
