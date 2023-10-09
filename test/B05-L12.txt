@@ -103,40 +103,40 @@ C. Tercera opción.
 D. Cuarta opción.
 ANSWER:B
 
-B05-L12-Q16-Pregunta 1 Antonio:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L12-Q16- ¿Cuál de los siguientes NO es un participante en SCRUM?:
+A. Product Owner.
+B. Scrum Master.
+C. Equipo de desarrollo.
+D. Scrum Developer.
+ANSWER: D
 
-B05-L12-Q17-Pregunta 2 Antonio:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L12-Q17- Indica la afirmación correcta sobre las reuniones diarias (Daily Scrum) en SCRUM:
+A. Duran entre 30 minutos y 1 hora.
+B. Solo participa el equipo.
+C. Solo los miembros del equipo pueden hablar.
+D. Son para resolver problemas.
+ANSWER: C
 
-B05-L12-Q18-Pregunta 3 Antonio:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L12-Q18- Indica cuál es la afirmación verdadera dentro de las características del PUD(Proceso unificado de Desarrollo de Software):
+A. Está dirigido por casos de uso.
+B. Está centrado en los casos de uso.
+C. PUD es iterativo y no incremental.
+D. PUD no es iterativo ni incremental.
+ANSWER: A
 
-B05-L12-Q19-Pregunta 4 Antonio:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L12-Q19- Dentro de los gráficos SCRUM realizados con la herramienta "Gráfico Burn-Up", que dato NO se muestra de los siguientes:
+A. Velocidad estimada.
+B. Rendimiento de los trabajadores.
+C. Avance real.
+D. Fechas probables para cada versión.
+ANSWER: B
 
-B05-L12-Q20-Pregunta 5 Antonio:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L12-Q20- En el PUD un ciclo tiene varias fases, indica cuáles:
+A. Inicio, elaboración, construcción y transición.
+B. Inicio, estudio, elaboración y pruebas
+C. Inicio, elaboración y construcción
+D. Un ciclo no tiene fases.
+ANSWER: A
 
 B05-L12-Q21- ¿Cuáles son los Requisitos No Funcionales de un proyecto software?:
 A. Las restricciones del mismo tales como el lenguaje de programación a utilizar, el alcance del soporte de la aplicación, etc.
