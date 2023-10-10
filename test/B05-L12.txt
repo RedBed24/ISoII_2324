@@ -1,30 +1,31 @@
-B05-L12-Q01-Pregunta 1 Noe:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
 
-B05-L12-Q02-Pregunta 2 Noe:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L12-Q01- Un cliente quiere desarrollar un software de compra, pero no tiene claro como. Para ello, nuestra organización le proporcionará un equipo auto-organizado y colaborativo. Elige el tipo de metodología más útil:
+A. Métodos formales.
+B. Iterativo.
+C. PUD.
+D. Métodos ágiles.
+ANSWER:D
 
-B05-L12-Q03-Pregunta 3 Noe:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L12-Q02- ¿Cúal de las siguientes afirmaciones sobre un proyecto predictivo o adaptativo es falsa?
+A. Un proyecto adaptativo se divide en fases, de tal forma que una fase no puede empezar hasta que no termine la anterior.
+B. En un proyecto predecible, es fácil desarrollar contratos sobre requisitos cerrados.
+C. En un proyecto adaptativo como no tenemos claro lo que quiere el cliente, no podemos fijar un precio exacto ya que el coste del producto puede aumentar.
+D. Para definir un proyecto predictivo, es necesario seguir una planificación, predecir que va a pasar.
+ANSWER:A
 
-B05-L12-Q04-Pregunta 4 Noe:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L12-Q03- ¿Qué es una historia de usuario?
+A. Es una metodología de gestión de proyectos basada en los principios del agilismo.
+B. Se encarga de proveer a la organización de un entorno de trabajo.
+C. Es una descripción breve de una funcionalidad software tal y como la percibe el usuario.
+D. Es una metodología de desarrollo para transformar los requisitos de usuario en un sistema software.
+ANSWER:C
+
+B05-L12-Q04- Señale la opción falsa sobre la organización del trabajo:
+A. Cada ciclo da lugar a una nueva versión del producto.
+B. El trabajo se estructura en ciclos.
+C. Cada ciclo tiene iteraciones, y cada iteración puede tener una o varias fases.
+D. Las fases pueden ser las siguientes: Inicio, Elaboración, Construcción y Transicción.
+ANSWER:C
 
 B05-L12-Q05-Pregunta 5 Noe:
 A. Primera opción.
