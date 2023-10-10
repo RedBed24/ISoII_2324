@@ -173,39 +173,39 @@ C. Product Owner.
 D. Scrum Master.
 ANSWER: B
 
-B05-L12-Q26-Pregunta 1 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L12-Q26- ¿Cuál NO es una característica del Proceso Unificado de Desarollo?:
+A. Dirigido en Casos De Uso.
+B. Calidad como objetivo.
+C. Centrado en la Arquitectura.
+D. Iterativo e Incremental.
+ANSWER: B
 
-B05-L12-Q27-Pregunta 2 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L12-Q27- Los Casos De Uso representan...:
+A. Requisitos funcionales.
+B. Requisitos no funcionales.
+C. Restricciones.
+D. Características de calidad.
+ANSWER: A
 
-B05-L12-Q28-Pregunta 3 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L12-Q28- Hay que realizar primero aquellos casos de uso que...:
+A. Nos apetezca.
+B. Tengan mayor coste.
+C. Sean más fáciles.
+D. Sean de mayor riesgo.
+ANSWER: D
 
-B05-L12-Q29-Pregunta 4 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L12-Q29- Cada ciclo realiza un/una...:
+A. Iteración.
+B. Fase.
+C. Versión.
+D. Incremento.
+ANSWER: C
 
-B05-L12-Q30-Pregunta 5 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
+B05-L12-Q30- El Hito de la fase de Elaboración es:
+A. Planificar las iteraciones y el ciclo de vida.
+B. Línea base de la arquitectura del sistema.
+C. Obtener una versión funcional/operacional.
+D. Entregar un producto completo y finalizado.
 ANSWER:B
 
 B05-L12-Q31-Pregunta Extra:
