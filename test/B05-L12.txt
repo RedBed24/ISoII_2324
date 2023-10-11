@@ -69,40 +69,40 @@ C. Versión del Producto.
 D. Pila del Producto.
 ANSWER: B
 
-B05-L12-Q11-Pregunta 1 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L12-Q11- 
+A. 
+B. 
+C. 
+D. 
+ANSWER:
 
-B05-L12-Q12-Pregunta 2 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L12-Q12- 
+A. 
+B. 
+C. 
+D. 
+ANSWER:
 
-B05-L12-Q13-Pregunta 3 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L12-Q13-
+A. 
+B. 
+C. 
+D. 
+ANSWER:
 
-B05-L12-Q14-Pregunta 4 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L12-Q14-
+A. 
+B. 
+C. 
+D. 
+ANSWER:
 
-B05-L12-Q15-Pregunta 5 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L12-Q15-
+A. 
+B. 
+C. 
+D. 
+ANSWER:
 
 B05-L12-Q16- ¿Cuál de los siguientes NO es un participante en SCRUM?:
 A. Product Owner.
