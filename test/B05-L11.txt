@@ -61,26 +61,26 @@ C. Las fases del proyecto se ejecutan simultáneamente.
 D. Se enfoca en el desarrollo ágil y entrega rápida de software.
 ANSWER: A
 
-B05-L11-Q10-
-A. 
-B. 
-C. 
-D.
-ANSWER: 
+B05-L11-Q10- Las metodologías de desarrollo definen:
+A. El coste total de realizar el proyecto.
+B. Segmento de clientes.
+C. Herramientas y restricciones.
+D. Canales de distribución del software.
+ANSWER: C
 
-B05-L11-Q11-
-A. 
-B.
-C. 
-D.
-ANSWER: 
+B05-L11-Q11- Significado de metodologías orientadas a objetos:
+A. Resultados finales impredecibles.
+B. Diseño estructurado.
+C. Tratamiento separado de datos y procesos.
+D. Tratamiento conjunto de datos y procesos.
+ANSWER: D
 
-B05-L11-Q12-
-A.
-B.
-C.
-D. 
-ANSWER: 
+B05-L11-Q12- Propósito principal de las herramientas CASE:
+A. Generar café para los desarrolladores cansados.
+B. Evaluar el rendimiento del grupo de trabajo.
+C. Diseñado para la planificación y seguimiento del proyecto.
+D. Todas son falsas.
+ANSWER: C
 
 B05-L11-Q13- ¿Cuál es una ventaja dentro de los modelos de ciclos de vida del modelo incremental?:
 A. Es útil con proyectos complejos ya que todo queda bien definido desde un inicio.
