@@ -141,7 +141,7 @@ ANSWER: A
 
 B05-L12-Q21- ¿Cuáles son los Requisitos No Funcionales de un proyecto software?:
 A. Las restricciones del mismo tales como el lenguaje de programación a utilizar, el alcance del soporte de la aplicación, etc.
-B. Aquellos que, sin su existencia, el software no podría funcionar.
+B. Aquellos que determinan el funcionamiento del software.
 C. Aquellos que representan los casos de uso del proyecto.
 D. Ninguno de las anteriores.
 ANSWER: A
