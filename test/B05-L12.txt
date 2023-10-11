@@ -27,11 +27,11 @@ C. Cada ciclo tiene iteraciones, y cada iteración puede tener una o varias fase
 D. Las fases pueden ser las siguientes: Inicio, Elaboración, Construcción y Transicción.
 ANSWER:C
 
-B05-L12-Q05-Pregunta 5 Noe:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
+B05-L12-Q05- ¿Cuál no es una disciplina de la ingeniería?
+A. Análisis
+B. Elaboración
+C. Implementación
+D. Diseño
 ANSWER:B
 
 B05-L12-Q06- Indica las principales características del Proceso Unificado de Desarrollo (PUD):
