@@ -54,33 +54,33 @@ C. IEEE.
 D. CASE.
 ANSWER: D
 
-B05-L11-Q09-Pregunta 1 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER: B
+B05-L11-Q09- ¿Cuál es el propósito principal del ciclo de cascada en la gestión de proyectos software?:
+A. Enfoque secuencial con fases bien definidas.
+B. Permitir cambios ilimitados en los requisitos del proyecto.
+C. Las fases del proyecto se ejecutan simultáneamente.
+D. Se enfoca en el desarrollo ágil y entrega rápida de software.
+ANSWER: A
 
-B05-L11-Q10-Pregunta 2 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER: B
+B05-L11-Q10-
+A. 
+B. 
+C. 
+D.
+ANSWER: 
 
-B05-L11-Q11-Pregunta 3 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER: B
+B05-L11-Q11-
+A. 
+B.
+C. 
+D.
+ANSWER: 
 
-B05-L11-Q12-Pregunta 4 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER: B
+B05-L11-Q12-
+A.
+B.
+C.
+D. 
+ANSWER: 
 
 B05-L11-Q13- ¿Cuál es una ventaja dentro de los modelos de ciclos de vida del modelo incremental?:
 A. Es útil con proyectos complejos ya que todo queda bien definido desde un inicio.
