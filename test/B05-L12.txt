@@ -69,40 +69,41 @@ C. Versión del Producto.
 D. Pila del Producto.
 ANSWER: B
 
-B05-L12-Q11- 
-A. 
-B. 
-C. 
-D. 
-ANSWER:
 
-B05-L12-Q12- 
-A. 
-B. 
-C. 
-D. 
-ANSWER:
+B05-L12-Q11- Señala la opción falsa en cuanto el objetivo de cada fase:
+A. En el inicio se elabora la arquitectura del sistena.
+B. En la elaboración se diseña la arquitectura del sistena.
+C. La transición se refiere a la entrega del producto.
+D. En el inicio se define el objetivo principal.
+ANSWER: A
 
-B05-L12-Q13-
-A. 
-B. 
-C. 
-D. 
-ANSWER:
+B05-L12-Q12- Como trabajador, ¿sería eficiente que trabajaras en el desarrollo y en las pruebas de un proyecto?
+A. Sí, conoces mejor el programa que el resto de compañeros.
+B. No, ya que como informático solo te especializas en una etapa del desarrollo.
+C. No, ya que podrías no ser del todo objetivo al hacer las pruebas.
+D. Todas son falsas.
+ANSWER: C
 
-B05-L12-Q14-
-A. 
-B. 
-C. 
-D. 
-ANSWER:
+B05-L12-Q13- ¿Qué pregunta debe responderse al planificar un proyecto?
+A. Estructura bien definida de la clase principal del programa.
+B. Pruebas que hay que hacer al software.
+C. Diseño de futuras actualizaciones.
+D. ¿Cuánto costará el proyecto?
+ANSWER: D
 
-B05-L12-Q15-
-A. 
-B. 
-C. 
-D. 
-ANSWER:
+B05-L12-Q14- Señala cuál no es una mala interpretación del manifiesto ágil.
+A. Ausencia total de documentación.
+B. No hay planificación a largo plazo.
+C. Se adopta una posición de respuesta ante el cambio.
+D. El cliente debe ser el jefe de proyecto.
+ANSWER: C
+
+B05-L12-Q15- ¿Cuál no es una metodología ágil?
+A. Go.
+B. Scrum.
+C. Kanban.
+D. Custom Hybrid.
+ANSWER: A
 
 B05-L12-Q16- ¿Cuál de los siguientes NO es un participante en SCRUM?:
 A. Product Owner.
