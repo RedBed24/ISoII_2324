@@ -1,38 +1,37 @@
-
-B05-L12-Q01- Un cliente quiere desarrollar un software de compra, pero no tiene claro como. Para ello, nuestra organización le proporcionará un equipo auto-organizado y colaborativo. Elige el tipo de metodología más útil:
+B05-L12-Q01- Un cliente quiere desarrollar un software de compra, pero no tiene claro cómo. Nuestra organización le proporcionará un equipo auto-organizado y colaborativo. Elige el tipo de metodología más útil:
 A. Métodos formales.
 B. Iterativo.
 C. PUD.
 D. Métodos ágiles.
-ANSWER:D
+ANSWER: D
 
-B05-L12-Q02- ¿Cúal de las siguientes afirmaciones sobre un proyecto predictivo o adaptativo es falsa?
+B05-L12-Q02- ¿Cúal de las siguientes afirmaciones sobre un proyecto predictivo o adaptativo es falsa?:
 A. Un proyecto adaptativo se divide en fases, de tal forma que una fase no puede empezar hasta que no termine la anterior.
 B. En un proyecto predecible, es fácil desarrollar contratos sobre requisitos cerrados.
-C. En un proyecto adaptativo como no tenemos claro lo que quiere el cliente, no podemos fijar un precio exacto ya que el coste del producto puede aumentar.
-D. Para definir un proyecto predictivo, es necesario seguir una planificación, predecir que va a pasar.
-ANSWER:A
+C. En un proyecto adaptativo, como no tenemos claro lo que quiere el cliente, no podemos fijar un precio exacto ya que el coste del producto puede aumentar.
+D. Para definir un proyecto predictivo, es necesario seguir una planificación.
+ANSWER: A
 
-B05-L12-Q03- ¿Qué es una historia de usuario?
+B05-L12-Q03- ¿Qué es una Historia de Usuario?:
 A. Es una metodología de gestión de proyectos basada en los principios del agilismo.
 B. Se encarga de proveer a la organización de un entorno de trabajo.
 C. Es una descripción breve de una funcionalidad software tal y como la percibe el usuario.
 D. Es una metodología de desarrollo para transformar los requisitos de usuario en un sistema software.
-ANSWER:C
+ANSWER: C
 
 B05-L12-Q04- Señale la opción falsa sobre la organización del trabajo:
 A. Cada ciclo da lugar a una nueva versión del producto.
 B. El trabajo se estructura en ciclos.
 C. Cada ciclo tiene iteraciones, y cada iteración puede tener una o varias fases.
-D. Las fases pueden ser las siguientes: Inicio, Elaboración, Construcción y Transicción.
-ANSWER:C
+D. Las fases pueden ser las siguientes: Inicio, Elaboración, Construcción y Transición.
+ANSWER: C
 
-B05-L12-Q05- ¿Cuál no es una disciplina de la ingeniería?
+B05-L12-Q05- ¿Cuál no es una Disciplina de la Ingeniería?:
 A. Análisis
 B. Elaboración
 C. Implementación
 D. Diseño
-ANSWER:B
+ANSWER: B
 
 B05-L12-Q06- Indica las principales características del Proceso Unificado de Desarrollo (PUD):
 A. Planificación predictiva, minimización de riesgos y proyecto ágil.
@@ -42,7 +41,7 @@ D. Roles, eventos, reuniones y artefactos.
 ANSWER: B
 
 B05-L12-Q07- ¿Cuál de las siguientes preguntas es la menos relevante a la hora de planificar un proyecto?:
-A. ¿Quiénes intervendrán?
+A. ¿Quiénes intervendrán?.
 B. ¿Cuánto esfuerzo requerirá?.
 C. ¿Cuándo se acabará?.
 D. ¿Cuánto costará?.
@@ -57,18 +56,17 @@ ANSWER: D
 
 B05-L12-Q09- ¿Quiénes aportan valor a las Historias de Usuario?:
 A. Los clientes, aunque los desarrolladores conocen mejor las necesidades de sus clientes.
-B. Los desarrolladores. Ellos son los que mejor saben qué es lo que realmente quiere el cliente.
+B. Los desarrolladores. Ellos son los que mejor determinan el orden en el que se desempeñan las iteraciones.
 C. Los clientes, aunque los desarrolladores son los que definen el esfuerzo que cada una necesita.
-D. Los desarrolladores. Ellos saben por dónde empezar, aunque los clientes determinan qué herramientas se usarán.
+D. Los desarrolladores. Ellos saben por dónde empezar, aunque los clientes determinan qué herramientas usarán.
 ANSWER: C
 
-B05-L12-Q10- ¿Qué se pretende obtener al final de la fase de elaboración en PUD?:
+B05-L12-Q10- ¿Qué se pretende obtener al final de la fase de inicio en PUD?:
 A. Plan de Proyecto.
 B. Línea Base de la Arquitectura.
 C. Versión del Producto.
 D. Pila del Producto.
-ANSWER: B
-
+ANSWER: A
 
 B05-L12-Q11- Señala la opción falsa en cuanto el objetivo de cada fase:
 A. En el inicio se elabora la arquitectura del sistena.
@@ -77,28 +75,28 @@ C. La transición se refiere a la entrega del producto.
 D. En el inicio se define el objetivo principal.
 ANSWER: A
 
-B05-L12-Q12- Como trabajador, ¿sería eficiente que trabajaras en el desarrollo y en las pruebas de un proyecto?
+B05-L12-Q12- Como trabajador, ¿sería eficiente que trabajaras en el desarrollo y en las pruebas de un proyecto?:
 A. Sí, conoces mejor el programa que el resto de compañeros.
 B. No, ya que como informático solo te especializas en una etapa del desarrollo.
 C. No, ya que podrías no ser del todo objetivo al hacer las pruebas.
 D. Todas son falsas.
 ANSWER: C
 
-B05-L12-Q13- ¿Qué pregunta debe responderse al planificar un proyecto?
+B05-L12-Q13- ¿Qué cuestión debe abordarse al planificar un proyecto?:
 A. Estructura bien definida de la clase principal del programa.
 B. Pruebas que hay que hacer al software.
 C. Diseño de futuras actualizaciones.
-D. ¿Cuánto costará el proyecto?
+D. Coste del proyecto.
 ANSWER: D
 
-B05-L12-Q14- Señala cuál no es una mala interpretación del manifiesto ágil.
+B05-L12-Q14- Señala cuál es una buena interpretación del Manifiesto Ágil:
 A. Ausencia total de documentación.
 B. No hay planificación a largo plazo.
 C. Se adopta una posición de respuesta ante el cambio.
 D. El cliente debe ser el jefe de proyecto.
 ANSWER: C
 
-B05-L12-Q15- ¿Cuál no es una metodología ágil?
+B05-L12-Q15- ¿Cuál no es una metodología ágil?:
 A. Go.
 B. Scrum.
 C. Kanban.
@@ -119,14 +117,14 @@ C. Solo los miembros del equipo pueden hablar.
 D. Son para resolver problemas.
 ANSWER: C
 
-B05-L12-Q18- Indica cuál es la afirmación verdadera dentro de las características del PUD(Proceso unificado de Desarrollo de Software):
+B05-L12-Q18- Indica cuál es la afirmación verdadera dentro de las características del PUD (Proceso Unificado de Desarrollo):
 A. Está dirigido por casos de uso.
 B. Está centrado en los casos de uso.
 C. PUD es iterativo y no incremental.
 D. PUD no es iterativo ni incremental.
 ANSWER: A
 
-B05-L12-Q19- Dentro de los gráficos SCRUM realizados con la herramienta "Gráfico Burn-Up", que dato NO se muestra de los siguientes:
+B05-L12-Q19- Dentro de los gráficos SCRUM realizados con la herramienta "Gráfico Burn-Up", señala el dato que NO se muestra de los siguientes:
 A. Velocidad estimada.
 B. Rendimiento de los trabajadores.
 C. Avance real.
@@ -168,7 +166,7 @@ C. El equipo debe ser capaz de comunicarse con el cliente de manera óptima.
 D. Ninguna de las anteriores.
 ANSWER: A
 
-B05-L12-Q25- ¿Quién es el encargado de determinar la estimación de una "Historia de usuario"?:
+B05-L12-Q25- ¿Quién es el encargado de determinar la estimación de una Historia de Usuario?:
 A. Cliente.
 B. Equipo de desarrollo.
 C. Product Owner.
@@ -203,7 +201,7 @@ C. Versión.
 D. Incremento.
 ANSWER: C
 
-B05-L12-Q30- El Hito de la fase de Elaboración es:
+B05-L12-Q30- El hito de la fase de elaboración en PUD es:
 A. Planificar las iteraciones y el ciclo de vida.
 B. Línea base de la arquitectura del sistema.
 C. Obtener una versión funcional/operacional.
