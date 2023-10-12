@@ -206,12 +206,4 @@ A. Planificar las iteraciones y el ciclo de vida.
 B. Línea base de la arquitectura del sistema.
 C. Obtener una versión funcional/operacional.
 D. Entregar un producto completo y finalizado.
-ANSWER:B
-
-B05-L12-Q31-Pregunta Extra:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
-
+ANSWER: B
