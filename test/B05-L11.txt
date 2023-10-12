@@ -131,7 +131,7 @@ C. Aquel aspecto que tiene que ver con el producto, pero no con su producción.
 D. Cualquier participante que, de manera interna o externa, se relaciona con el producto.
 ANSWER: B
 
-B05-L11-Q20- Para un proyecto en el cual tenemos muy claros los requisitos desde el inicio... ¿Qué modelo de ciclo de vida deberíamos utilizar?
+B05-L11-Q20- Para un proyecto en el cual tenemos muy claros los requisitos desde el inicio... ¿Qué modelo de ciclo de vida deberíamos utilizar?:
 A. Espiral.
 B. Cascada.
 C. Flexible.
@@ -159,17 +159,9 @@ C. Tiempo o Duración.
 D. Dinero o Coste.
 ANSWER: A
 
-B05-L11-Q24- ¿Cuál no es un artefacto típico?
+B05-L11-Q24- ¿Cuál no es un artefacto típico?:
 A. Diagrama de clases.
 B. Código fuente.
 C. IDE.
 D. Diagrama de Casos de Uso.
 ANSWER: C
-
-B05-L11-Q25-Pregunta Extra:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER: B
-
