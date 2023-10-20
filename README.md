@@ -11,4 +11,6 @@ Realizado durante el curso 2023/2024.
 
 - Grupo de trabajos: B.05
 
+# Lab
 
+Se ha creado un [repo especial](https://github.com/RedBed24/2023-ISO-B05) para el proyecto del laboratorio.
