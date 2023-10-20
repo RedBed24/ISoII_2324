@@ -1,0 +1,167 @@
+B05-L11-Q01- Señala la opción correcta sobre el ciclo en cascada:
+A. Entrega resultados con frecuencia.
+B. Involucra más al usuario.
+C. Después de cada fase genera documentación.
+D. Se caracteriza por cada ciclo.
+ANSWER: C
+
+B05-L11-Q02- ¿Cúal no es una característica de las metodologías?:
+A. Fácil formación.
+B. No presentan reglas predefinidas.
+C. Debe contener actividades que mejoren el proceso de desarrollo.
+D. Tiene verificaciones intermedias.
+ANSWER: B
+
+B05-L11-Q03- El ciclo de vida de un producto software abarca la vida del sistema...:
+A. Desde la definición de los requisitos hasta la finalización de su uso.
+B. Desde el análisis de los requisitos hasta el despliegue del producto.
+C. Durante la etapa de implementación.
+D. Desde su salida al mercado hasta que cae en desuso.
+ANSWER: A
+
+B05-L11-Q04- Señala la opción correcta:
+A. La empresa tendrá tantos procesos productivos como tipo de clientes.
+B. El objetivo de la asignatura consiste en generar resultados de calidad.
+C. Una actividad es un conjunto de procesos que se suceden en un orden.
+D. El modelo en espiral es el resultado de la integración de una serie de componentes.
+ANSWER: A
+
+B05-L11-Q05- Según el modelo del triángulo de hierro, si se amplía el número de funcionalidades de un proyecto...:
+A. Es probable que se requiera más tiempo y/o mayor coste para completarlo.
+B. Es posible que sea adecuado utilizar un modelo de ciclo de vida incremental para abarcarlas.
+C. Aseguraremos un aumento de la calidad del producto o servicio.
+D. Actuaremos según sopesemos las tres variables del modelo: tiempo, coste y calidad.
+ANSWER: A
+
+B05-L11-Q06- Elige la afirmación correcta:
+A. Las metodologías ágiles siguen un ciclo de vida en cascada.
+B. Un cliente no puede cumplir el papel de usuario.
+C. Los stakeholders pueden ser tanto empleados como clientes y usuarios.
+D. El Proceso Unificado de Desarrollo (PUD) es una metodología estructurada, no orientada a objetos.
+ANSWER: C
+
+B05-L11-Q07- El orden en el que van a suceder las fases de nuestro proyecto lo determinan...:
+A. Los Modelos de Procesos.
+B. Los Modelos de Ciclo de Vida.
+C. Los Procesos de Negocio.
+D. Las Metodologías de Desarrollo.
+ANSWER: B
+
+B05-L11-Q08- ¿Cuáles de las siguientes siglas NO corresponde a una organización dedicada a la estandarización y normalización?:
+A. ISO.
+B. W3C.
+C. IEEE.
+D. CASE.
+ANSWER: D
+
+B05-L11-Q09- ¿Cuál es el propósito principal del ciclo de cascada en la gestión de proyectos software?:
+A. Enfoque secuencial con fases bien definidas.
+B. Permitir cambios ilimitados en los requisitos del proyecto.
+C. Las fases del proyecto se ejecutan simultáneamente.
+D. Se enfoca en el desarrollo ágil y entrega rápida de software.
+ANSWER: A
+
+B05-L11-Q10- Las metodologías de desarrollo definen:
+A. El coste total de realizar el proyecto.
+B. Segmento de clientes.
+C. Herramientas y restricciones.
+D. Canales de distribución del software.
+ANSWER: C
+
+B05-L11-Q11- Significado de metodologías orientadas a objetos:
+A. Resultados finales impredecibles.
+B. Diseño estructurado.
+C. Tratamiento separado de datos y procesos.
+D. Tratamiento conjunto de datos y procesos.
+ANSWER: D
+
+B05-L11-Q12- Propósito principal de las herramientas CASE:
+A. Generar café para los desarrolladores cansados.
+B. Evaluar el rendimiento del grupo de trabajo.
+C. Diseñado para la planificación y seguimiento del proyecto.
+D. Todas son falsas.
+ANSWER: C
+
+B05-L11-Q13- ¿Cuál es una ventaja dentro de los modelos de ciclos de vida del modelo incremental?:
+A. Es útil con proyectos complejos ya que todo queda bien definido desde un inicio.
+B. Se entrega a los usuarios algo de valor con cierta frecuencia.
+C. Incorpora objetivos de calidad y gestión de riesgos.
+D. Es muy útil a la hora de realizar una migración del software.
+ANSWER: B
+
+B05-L11-Q14- ¿Qué determinan los modelos de procesos?:
+A. Las entradas, salidas, productos que se obtienen, como se trabaja.
+B. El orden en el que se van a desarrollar las fases de nuestro proyecto.
+C. El conjunto de procesos necesarios para llevar a cabo nuestro proyecto.
+D. Ninguna de las anteriores.
+ANSWER: C
+
+B05-L11-Q15- Selecciona el orden correcto de las etapas de un proceso productivo cuyo objetivo es desarrollar software:
+A. Requisitos - Análisis de requisitos - Diseño - Implementación - Software funcionando y su mantenimiento - Pruebas.
+B. Requisitos - Análisis de requisitos - Implementación - Diseño - Pruebas - Software funcionando y su mantenimiento.
+C. Requisitos - Análisis de requisitos - Diseño - Implementación - Pruebas - Software funcionando y su mantenimiento.
+D. Ningun orden de los anteriores es correcto. 
+ANSWER: C
+
+B05-L11-Q16- ¿Qué significa "stakeholder"?:
+A. Es cualquier persona u organización relacionada con el desarrollo del software.
+B. Es la forma en la que deben sucederse los procesos.
+C. Es el producto utilizado como entrada o generado como salida.
+D. Es un conjunto de tareas.
+ANSWER: A
+
+B05-L11-Q17- Según ISO 12207:2017, los procesos "de acuerdo" y "organizacionales de proyectos" son ejemplos de...:
+A. Procesos productivos.
+B. Procesos de gestión empresarial.
+C. Metodologías de desarrollo.
+D. Procesos de soporte al proceso productivo.
+ANSWER: D
+
+B05-L11-Q18- Una desventaja del ciclo de vida en cascada es que...:
+A. No es útil con proyectos complejos.
+B. No se adapta bien cuando el equipo de desarrollo es inexperto.
+C. No es secuencial.
+D. No se obtienen resultados hasta el final.
+ANSWER: D
+
+B05-L11-Q19- Un artefacto en un proyecto software es...:
+A. Un conjunto de actividades relacionadas con el producto sucedidas siguiendo una ordenación temporal determinada.
+B. Un producto utilizado como entrada o generado como salida dentro del proyecto.
+C. Aquel aspecto que tiene que ver con el producto, pero no con su producción.
+D. Cualquier participante que, de manera interna o externa, se relaciona con el producto.
+ANSWER: B
+
+B05-L11-Q20- Para un proyecto en el cual tenemos muy claros los requisitos desde el inicio... ¿Qué modelo de ciclo de vida deberíamos utilizar?:
+A. Espiral.
+B. Cascada.
+C. Flexible.
+D. Incremental.
+ANSWER: B
+
+B05-L11-Q21- ¿Se puede aplicar la metodología en espiral en la vida real?:
+A. No, es teórico. Por tanto, no se puede aplicar este únicamente.
+B. Sí, porque se pueden aplicar ideas de este a otras metodologías.
+C. Sí, por eso lo estudiamos, para usarlo.
+D. Sí, aunque no completamente.
+ANSWER: A
+
+B05-L11-Q22- ¿Cuál es un tipo de modelo de ciclo de vida?:
+A. PUD.
+B. Cascada.
+C. SCRUM.
+D. Ágil.
+ANSWER: B
+
+B05-L11-Q23- ¿Qué pilar NO es uno del triángulo de los negocios?:
+A. Calidad.
+B. Funcionalidad.
+C. Tiempo o Duración.
+D. Dinero o Coste.
+ANSWER: A
+
+B05-L11-Q24- ¿Cuál no es un artefacto típico?:
+A. Diagrama de clases.
+B. Código fuente.
+C. IDE.
+D. Diagrama de Casos de Uso.
+ANSWER: C

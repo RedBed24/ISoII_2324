@@ -1,0 +1,209 @@
+B05-L12-Q01- Un cliente quiere desarrollar un software de compra, pero no tiene claro cómo. Nuestra organización le proporcionará un equipo auto-organizado y colaborativo. Elige el tipo de metodología más útil:
+A. Métodos formales.
+B. Iterativo.
+C. PUD.
+D. Métodos ágiles.
+ANSWER: D
+
+B05-L12-Q02- ¿Cúal de las siguientes afirmaciones sobre un proyecto predictivo o adaptativo es falsa?:
+A. Un proyecto adaptativo se divide en fases, de tal forma que una fase no puede empezar hasta que no termine la anterior.
+B. En un proyecto predecible, es fácil desarrollar contratos sobre requisitos cerrados.
+C. En un proyecto adaptativo, como no tenemos claro lo que quiere el cliente, no podemos fijar un precio exacto ya que el coste del producto puede aumentar.
+D. Para definir un proyecto predictivo, es necesario seguir una planificación.
+ANSWER: A
+
+B05-L12-Q03- ¿Qué es una Historia de Usuario?:
+A. Es una metodología de gestión de proyectos basada en los principios del agilismo.
+B. Se encarga de proveer a la organización de un entorno de trabajo.
+C. Es una descripción breve de una funcionalidad software tal y como la percibe el usuario.
+D. Es una metodología de desarrollo para transformar los requisitos de usuario en un sistema software.
+ANSWER: C
+
+B05-L12-Q04- Señale la opción falsa sobre la organización del trabajo:
+A. Cada ciclo da lugar a una nueva versión del producto.
+B. El trabajo se estructura en ciclos.
+C. Cada ciclo tiene iteraciones, y cada iteración puede tener una o varias fases.
+D. Las fases pueden ser las siguientes: Inicio, Elaboración, Construcción y Transición.
+ANSWER: C
+
+B05-L12-Q05- ¿Cuál no es una Disciplina de la Ingeniería?:
+A. Análisis
+B. Elaboración
+C. Implementación
+D. Diseño
+ANSWER: B
+
+B05-L12-Q06- Indica las principales características del Proceso Unificado de Desarrollo (PUD):
+A. Planificación predictiva, minimización de riesgos y proyecto ágil.
+B. Iterativo e incremental, dirigido por casos de uso y centrado en la arquitectura.
+C. Planificación adaptativa, uso de historias de usuario y estudio del valor y estimación.
+D. Roles, eventos, reuniones y artefactos.
+ANSWER: B
+
+B05-L12-Q07- ¿Cuál de las siguientes preguntas es la menos relevante a la hora de planificar un proyecto?:
+A. ¿Quiénes intervendrán?.
+B. ¿Cuánto esfuerzo requerirá?.
+C. ¿Cuándo se acabará?.
+D. ¿Cuánto costará?.
+ANSWER: A
+
+B05-L12-Q08- ¿Qué elementos se priorizan en el Manifiesto Ágil sobre el Desarrollo Software?:
+A. Individuos e interacciones, software funcionando, seguir un plan y respuesta ante el cambio.
+B. Procesos y herramientas, documentación extensiva, negociación contractual y seguir un plan.
+C. Colaboración con el cliente, individuos e interacciones, minimización de riesgos y documentación extensiva.
+D. Individuos e interacciones, software funcionando, colaboración con el cliente y respuesta ante el cambio.
+ANSWER: D
+
+B05-L12-Q09- ¿Quiénes aportan valor a las Historias de Usuario?:
+A. Los clientes, aunque los desarrolladores conocen mejor las necesidades de sus clientes.
+B. Los desarrolladores. Ellos son los que mejor determinan el orden en el que se desempeñan las iteraciones.
+C. Los clientes, aunque los desarrolladores son los que definen el esfuerzo que cada una necesita.
+D. Los desarrolladores. Ellos saben por dónde empezar, aunque los clientes determinan qué herramientas usarán.
+ANSWER: C
+
+B05-L12-Q10- ¿Qué se pretende obtener al final de la fase de inicio en PUD?:
+A. Plan de Proyecto.
+B. Línea Base de la Arquitectura.
+C. Versión del Producto.
+D. Pila del Producto.
+ANSWER: A
+
+B05-L12-Q11- Señala la opción falsa en cuanto el objetivo de cada fase:
+A. En el inicio se elabora la arquitectura del sistena.
+B. En la elaboración se diseña la arquitectura del sistena.
+C. La transición se refiere a la entrega del producto.
+D. En el inicio se define el objetivo principal.
+ANSWER: A
+
+B05-L12-Q12- Como trabajador, ¿sería eficiente que trabajaras en el desarrollo y en las pruebas de un proyecto?:
+A. Sí, conoces mejor el programa que el resto de compañeros.
+B. No, ya que como informático solo te especializas en una etapa del desarrollo.
+C. No, ya que podrías no ser del todo objetivo al hacer las pruebas.
+D. Todas son falsas.
+ANSWER: C
+
+B05-L12-Q13- ¿Qué cuestión debe abordarse al planificar un proyecto?:
+A. Estructura bien definida de la clase principal del programa.
+B. Pruebas que hay que hacer al software.
+C. Diseño de futuras actualizaciones.
+D. Coste del proyecto.
+ANSWER: D
+
+B05-L12-Q14- Señala cuál es una buena interpretación del Manifiesto Ágil:
+A. Ausencia total de documentación.
+B. No hay planificación a largo plazo.
+C. Se adopta una posición de respuesta ante el cambio.
+D. El cliente debe ser el jefe de proyecto.
+ANSWER: C
+
+B05-L12-Q15- ¿Cuál no es una metodología ágil?:
+A. Go.
+B. Scrum.
+C. Kanban.
+D. Custom Hybrid.
+ANSWER: A
+
+B05-L12-Q16- ¿Cuál de los siguientes NO es un participante en SCRUM?:
+A. Product Owner.
+B. Scrum Master.
+C. Equipo de desarrollo.
+D. Scrum Developer.
+ANSWER: D
+
+B05-L12-Q17- Indica la afirmación correcta sobre las reuniones diarias (Daily Scrum) en SCRUM:
+A. Duran entre 30 minutos y 1 hora.
+B. Solo participa el equipo.
+C. Solo los miembros del equipo pueden hablar.
+D. Son para resolver problemas.
+ANSWER: C
+
+B05-L12-Q18- Indica cuál es la afirmación verdadera dentro de las características del PUD (Proceso Unificado de Desarrollo):
+A. Está dirigido por casos de uso.
+B. Está centrado en los casos de uso.
+C. PUD es iterativo y no incremental.
+D. PUD no es iterativo ni incremental.
+ANSWER: A
+
+B05-L12-Q19- Dentro de los gráficos SCRUM realizados con la herramienta "Gráfico Burn-Up", señala el dato que NO se muestra de los siguientes:
+A. Velocidad estimada.
+B. Rendimiento de los trabajadores.
+C. Avance real.
+D. Fechas probables para cada versión.
+ANSWER: B
+
+B05-L12-Q20- En el PUD un ciclo tiene varias fases, indica cuáles:
+A. Inicio, elaboración, construcción y transición.
+B. Inicio, estudio, elaboración y pruebas
+C. Inicio, elaboración y construcción
+D. Un ciclo no tiene fases.
+ANSWER: A
+
+B05-L12-Q21- ¿Cuáles son los Requisitos No Funcionales de un proyecto software?:
+A. Las restricciones del mismo tales como el lenguaje de programación a utilizar, el alcance del soporte de la aplicación, etc.
+B. Aquellos que determinan el funcionamiento del software.
+C. Aquellos que representan los casos de uso del proyecto.
+D. Ninguno de las anteriores.
+ANSWER: A
+
+B05-L12-Q22- ¿Cuál de los siguientes no es un criterio de elección de casos de uso críticos en un proyecto software?:
+A. La importancia para el cliente.
+B. La facilidad de implementación.
+C. Que sea independiente de los demás.
+D. Que reduzca la mayor cantidad de riesgos.
+ANSWER: B
+
+B05-L12-Q23- ¿Cual de las siguientes no es una disciplina del Proceso Unificado de Desarrollo?:
+A. Gestión de personal.
+B. Requisitos.
+C. Pruebas.
+D. Implementación.
+ANSWER: A
+
+B05-L12-Q24- ¿Que significa que el equipo de desarrollo en una metodología SCRUM debe ser multifuncional?:
+A. Todas las actividades pueden ser realizadas por el equipo como conjunto.
+B. Todos los miembros del equipo pueden realizar todas las actividades.
+C. El equipo debe ser capaz de comunicarse con el cliente de manera óptima.
+D. Ninguna de las anteriores.
+ANSWER: A
+
+B05-L12-Q25- ¿Quién es el encargado de determinar la estimación de una Historia de Usuario?:
+A. Cliente.
+B. Equipo de desarrollo.
+C. Product Owner.
+D. Scrum Master.
+ANSWER: B
+
+B05-L12-Q26- ¿Cuál NO es una característica del Proceso Unificado de Desarollo?:
+A. Dirigido en Casos De Uso.
+B. Calidad como objetivo.
+C. Centrado en la Arquitectura.
+D. Iterativo e Incremental.
+ANSWER: B
+
+B05-L12-Q27- Los Casos De Uso representan...:
+A. Requisitos funcionales.
+B. Requisitos no funcionales.
+C. Restricciones.
+D. Características de calidad.
+ANSWER: A
+
+B05-L12-Q28- Hay que realizar primero aquellos casos de uso que...:
+A. Nos apetezca.
+B. Tengan mayor coste.
+C. Sean más fáciles.
+D. Sean de mayor riesgo.
+ANSWER: D
+
+B05-L12-Q29- Cada ciclo realiza un/una...:
+A. Iteración.
+B. Fase.
+C. Versión.
+D. Incremento.
+ANSWER: C
+
+B05-L12-Q30- El hito de la fase de elaboración en PUD es:
+A. Planificar las iteraciones y el ciclo de vida.
+B. Línea base de la arquitectura del sistema.
+C. Obtener una versión funcional/operacional.
+D. Entregar un producto completo y finalizado.
+ANSWER: B
