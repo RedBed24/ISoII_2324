@@ -103,40 +103,40 @@ C. Tercera opción.
 D. Cuarta opción.
 ANSWER:B
 
-B05-L02-Q16-Pregunta 1 Antonio:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q16- ¿Cómo se representan los arreglos de fallos que no cambian la interfaz de una clase?:
+A. Minor.
+B. Patch.
+C. Major.
+D. Way.
+ANSWER: B
 
-B05-L02-Q17-Pregunta 2 Antonio:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q17- Dentro del Git Flow, ¿para qué sirve la rama "hotfixes"?:
+A. Sirve como versión que se sube a preproducción.
+B. Sirve como versión que se sube a desarrollo.
+C. Sirve para arreglar errores de la aplicación después de haberlo llevado a producción.
+D. Sirve para arreglar errores de la aplicación antes de haberlo llevado a producción.
+ANSWER: C
 
-B05-L02-Q18-Pregunta 3 Antonio:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q18- Indica cual afirmación es falsa respecto a la rama de desarrollo del Git Flow:
+A. Sobre ella se corrigen errores que han sido detectados en producción que no son urgentes.
+B. A partir de ella se crean las ramas para las nuevas funcionalidades a desarrollar.
+C. Los errores detectados corregidos se liberan con la siguiente versión.
+D. A partir de esta rama se crean las llamadas ramas "hotfixes".
+ANSWER: D
 
-B05-L02-Q19-Pregunta 4 Antonio:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q19- ¿Cuál es el papel del Configuration Control Board (CCB) en un proyecto?:
+A. Supervisar el cumplimiento de los plazos de los diferentes elementos.
+B. Evaluar y aceptar o rechazar los cambios propuestos a los elementos de configuración.
+C. Gestionar los recursos humanos del proyecto.
+D. Supervisar que las actividades se lleven a cabo de una manera adecuada
+ANSWER: B
 
-B05-L02-Q20-Pregunta 5 Antonio:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q20- ¿Cuál es la función principal de un Tag (Etiqueta de identificación de versión de Software)?:
+A. Etiquetar archivos de software con información descriptiva.
+B. Proporcionar una identificación inmutable de una versión de software.
+C. Facilitar la colaboración en proyectos de desarrollo de software.
+D. Gestionar las tareas de control de calidad en el desarrollo de software.
+ANSWER: B 
 
 B05-L02-Q21-Pregunta 1 Marce:
 A. Primera opción.
