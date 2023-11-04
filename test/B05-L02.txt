@@ -48,10 +48,10 @@ D. Conjunto de las iteraciones calculadas en la planificación del proyecto.
 ANSWER: A
 
 B05-L02-Q08- ¿Cuáles son las 4 actividades básicas de la Gestión de Configuración?:
-A. Gestión de versiones - Gestión de calidad - Gestión del cambio - Auditoría del sistema
-B. Gestión del cambio - Gestión de versiones - Construcción del sistema - Gestión de liberaciones y entregas
-C. Gestión de versiones - Construcción del sistema - Gestión de liberaciones y entregas - Gestión de integridad
-D. Gestión del cambio - Reutilización de componentes - Líneas Base - Gestión de versiones
+A. Gestión de versiones - Gestión de calidad - Gestión del cambio - Auditoría del sistema.
+B. Gestión del cambio - Gestión de versiones - Construcción del sistema - Gestión de liberaciones y entregas.
+C. Gestión de versiones - Construcción del sistema - Gestión de liberaciones y entregas - Gestión de integridad.
+D. Gestión del cambio - Reutilización de componentes - Líneas Base - Gestión de versiones.
 ANSWER: B
 
 B05-L02-Q09- ¿Cómo evitamos los efectos negativos de que el software sea abstracto, susceptible y dinámico?:
