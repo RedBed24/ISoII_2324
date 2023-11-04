@@ -33,40 +33,40 @@ C. Tercera opción.
 D. Cuarta opción.
 ANSWER:B
 
-B05-L02-Q06-Pregunta 1 Dani:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q06- ¿Qué es una versión Alfa?:
+A. La versión Beta es una versión secundaria para que los clientes prueben el producto antes de que llegue al mercado mientras que la Alfa es la versión final corregida.
+B. La versión Alfa es una fase del ciclo de lanzamiento usada para comprobar que los errores encontrados en la versión Beta han sido corregidos. 
+C. La versión Alfa es la primera fase del ciclo de lanzamiento para comenzar las pruebas de software. A diferencia de la versión Beta, la Alfa no está disponible para los clientes.
+D. La versión Alfa es una versión para realizar pruebas con un plan que describe qué porciones de las funcionalidades de un sistema serán implementadas en cada release.
+ANSWER: C
 
-B05-L02-Q07-Pregunta 2 Dani:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q07- ¿Qué es la línea de código en el contexto de la Gestión de la Configuración?:
+A. Conjunto de versiones de un componente y otros elementos de configuración que dependen de tal componente.
+B. Unidad de medida utilizada para cuantificar el tamaño o la complejidad de un programa.
+C. Conjunto de todas las peticiones de cambio a los elementos de configuración.
+D. Conjunto de las iteraciones calculadas en la planificación del proyecto.
+ANSWER: A
 
-B05-L02-Q08-Pregunta 3 Dani:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q08- ¿Cuáles son las 4 actividades básicas de la Gestión de Configuración?:
+A. Gestión de versiones - Gestión de calidad - Gestión del cambio - Auditoría del sistema
+B. Gestión del cambio - Gestión de versiones - Construcción del sistema - Gestión de liberaciones y entregas
+C. Gestión de versiones - Construcción del sistema - Gestión de liberaciones y entregas - Gestión de integridad
+D. Gestión del cambio - Reutilización de componentes - Líneas Base - Gestión de versiones
+ANSWER: B
 
-B05-L02-Q09-Pregunta 4 Dani:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q09- ¿Cómo evitamos los efectos negativos de que el software sea abstracto, susceptible y dinámico?:
+A. Mediante la visibilidad, el control de cambios y la trazabilidad.
+B. Mediante la confidencialidad, la integridad y la disponibilidad.
+C. Mediante los modelos de ciclo de vida, los modelos de procesos y las metodologías de desarrollo.
+D. Mediante la planificación, el versionado y la calidad.
+ANSWER: A
 
-B05-L02-Q10-Pregunta 5 Dani:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q10- Según el Semantic Versioning, ¿cuál de las siguientes transiciones de versiones es válida?:
+A. 9.1.10 -> 9.2.11.
+B. 2.3.20 -> 2.4.20.
+C. 13.15.3 -> 13.15.2.
+D. 24.2.0 -> 24.3.0.
+ANSWER: D
 
 B05-L02-Q11-Pregunta 1 Fran:
 A. Primera opción.
