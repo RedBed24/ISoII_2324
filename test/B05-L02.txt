@@ -82,26 +82,26 @@ C. Personal cualificado para evaluar, aceptar o rechazar todas las peticiones de
 D. Todas son falsas.
 ANSWER: C
 
-B05-L02-Q13- Indica el formato correcto para indicar las distintas versiones del proyecto:
+B05-L02-Q13- Indica el formato visto en clase para numerar las distintas versiones del proyecto:
 A. p.M.m (Patch.Major.Minor)
 B. M.p.m (Major.Patch.Minor)
 C. m.M.p (Minor.Major.Patch)
 D. M.m.p (Major.Minor.Patch)
 ANSWER: D
 
-B05-L02-Q14-Pregunta 4 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q14- Si el proyecto se encuentra en una primera fase para comenzar las pruebas de software, ¿en qué fase está?
+A. Fase Charlie.
+B. Fase Beta.
+C. Fase Alfa.
+D. Fase Delta.
+ANSWER: C
 
-B05-L02-Q15-Pregunta 5 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q15- ¿Qué significa Minimum Viable Product (Producto Mínimo Viable) MVP?
+A. Es una versión de un producto con las características mínimas pero suficientes.
+B. Es una versión de un producto con las características mínimas pero insuficiente para mostrar nada al cliente.
+C. Un documento que establece los elementos necesarios para ejercer la gestión de configuración
+D. No existe algo así.
+ANSWER: A
 
 B05-L02-Q16- ¿Cómo se representan los arreglos de fallos que no cambian la interfaz de una clase?:
 A. Minor.
