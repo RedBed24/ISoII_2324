@@ -68,26 +68,26 @@ C. 13.15.3 -> 13.15.2.
 D. 24.2.0 -> 24.3.0.
 ANSWER: D
 
-B05-L02-Q11-Pregunta 1 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q11- Si generas una Change Request (Petición de Cambio), ¿quién eres?
+A. Cliente interno o externo
+B. Diseñador gráfico.
+C. Jefe de la empresa.
+D. Trabajador del Consejo de Control de Configuración.
+ANSWER: A
 
-B05-L02-Q12-Pregunta 2 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q12- ¿Qué es el CCB (Consejo de Control de Configuración)?
+A. Personal cualificado para realizar las entrevistas con el/los cliente/s.
+B. Personal encargado de gestionar y controlar las pruebas del proyecto.
+C. Personal cualificado para evaluar, aceptar o rechazar todas las peticiones de cambios propuestos.
+D. Todas son falsas.
+ANSWER: C
 
-B05-L02-Q13-Pregunta 3 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q13- Indica el formato correcto para indicar las distintas versiones del proyecto:
+A. p.M.m (Patch.Major.Minor)
+B. M.p.m (Major.Patch.Minor)
+C. m.M.p (Minor.Major.Patch)
+D. M.m.p (Major.Minor.Patch)
+ANSWER: D
 
 B05-L02-Q14-Pregunta 4 Fran:
 A. Primera opción.
