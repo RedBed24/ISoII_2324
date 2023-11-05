@@ -3,7 +3,7 @@ A. Desarrollo
 B. Release
 C. Master
 D. Características
-ANSWER: B
+ANSWER:B
 
 B05-L02-Q02-¿Qué es el branching?
 A. Versión operativa del sistema o de un componente que incorpora un subconjunto específico de las capacidades que la versión final deberá tener.
