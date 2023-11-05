@@ -1,37 +1,37 @@
-B05-L02-Q01-Pregunta 1 Noe:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q01-A qué rama pertenece la siguiente afirmación: Se realizan pruebas sobre la versión en pre-producción y se corrigen los defectos detectados.
+A. Desarrollo
+B. Release
+C. Master
+D. Características
+ANSWER: B
 
-B05-L02-Q02-Pregunta 2 Noe:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q02-¿Qué es el branching?
+A. Versión operativa del sistema o de un componente que incorpora un subconjunto específico de las capacidades que la versión final deberá tener.
+B. Colección de versiones de componentes que construyen un sistema.
+C. Creación de una nueva línea base a partir de una versión existente. 
+D. Conjunto software liberada/publicada de una aplicación, que puede contener todo o parte de dicha aplicación.
+ANSWER:C
 
-B05-L02-Q03-Pregunta 3 Noe:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q03-Señala la opción falsa sobre las 4 actividades básicas de la Gestión de Configuración:
+A. La construcción del sistema consiste en un proceso de ensamblar los componentes del programa, datos, y librerías y luego compilarlos y vincularlos para crear un sistema ejecutable
+B. La gestión de liberaciones/entregas prepara el software para la entrega externa y hacer un seguimiento de las versiones del sistema que se entregaron para uso del cliente.
+C. La gestión de versiones hace un seguimiento de las diferentes versiones de los componentes del sistema y garantizar que los cambios hechos por diferentes desarrolladores a los componentes no interfieren entre sí.
+D. La gestión del cambio incorpora cambios al software por parte de clientes y desarrolladores y estima los costes de realizar dichos cambios.
+ANSWER:D
 
-B05-L02-Q04-Pregunta 4 Noe:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q04-Señala la opción falsa: El Plan de Gestión de la Configuración debería incluir los siguientes elementos...
+A. Criterios para la identificación de los elementos de configuración 
+B. Políticas aplicables, directivas y procedimientos
+C. Registro de peticiones de cambio y/o variación
+D. Responsabilidades de CM
+ANSWER:C
 
-B05-L02-Q05-Pregunta 5 Noe:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q05-¿Qué es un delta?
+A. Cualquier incremento generado tras una iteración del desarrollo.
+B. Versión de un producto con las características mínimas pero suficientes que permite determinar si se satisfacen los requisitos más importante de los clientes.
+C. Documento que establece los elementos necesarios para ejercer la gestión de configuración.
+D. Petición por parte de un cliente interno o externo para hacer un cambio a la línea base de la configuración.
+ANSWER:A
 
 B05-L02-Q06- ¿Qué es una versión Alfa?:
 A. La versión Beta es una versión secundaria para que los clientes prueben el producto antes de que llegue al mercado mientras que la Alfa es la versión final corregida.
