@@ -138,26 +138,26 @@ C. Facilitar la colaboración en proyectos de desarrollo de software.
 D. Gestionar las tareas de control de calidad en el desarrollo de software.
 ANSWER: B 
 
-B05-L02-Q21-Pregunta 1 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q21- ¿Cuál NO es un objetivo de la gestión de configuración?:
+A. Gestionar y controlar los elementos y configuraciones del sistema durante el ciclo de vida.
+B. Establecer y proteger la integridad de un producto o de los componentes de un producto a lo largo de su vida útil.
+C. Gestionar la coherencia entre un producto y su definición de configuración asociada.
+D. Minimizar los riesgos del proyecto por medio de una planificación anticipada que permita que el software cumpla las expectativas del cliente durante la fase de producción y posteriormente
+ANSWER:D
 
-B05-L02-Q22-Pregunta 2 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q22- ¿Cómo se llama el proceso de creación de un ejecutable del sistema mediante la compilación y vinculación de los componentes del sistema, bibliotecas, archivos de configuración, etc.?:
+A. System building
+B. System branching
+C. System versioning
+D. System releasing
+ANSWER:A
 
-B05-L02-Q23-Pregunta 3 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02- ¿Cómo se llama el grupo de personas responsables de evaluar y aprobar o rechazar los cambios propuestos a los elementos de configuración?:
+A. Configuration Management Authority
+B. Configuration Management Database
+C. Configuration Control Board
+D. Configuration Management Plan
+ANSWER:C
 
 B05-L02-Q24-Pregunta 4 Marce:
 A. Primera opción.
