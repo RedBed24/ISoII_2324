@@ -173,40 +173,40 @@ C. Un programa de instalación.
 D. Todos los anteriores.
 ANSWER:D
 
-B05-L02-Q26-Pregunta 1 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
+B05-L02-Q26-¿Cuál NO es un recubrimiento de Git?:
+A. GitLab.
+B. GitHub.
+C. Git Push
+D. Source Forge.
+ANSWER:C
+
+B05-L02-Q27-¿Cual de estos es un comando de Git?:
+A. pull-request.
+B. commit.
+C. finish.
+D. index.
 ANSWER:B
 
-B05-L02-Q27-Pregunta 2 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q28-¿Para qué sirve Git?:
+A. Para guardar archivos localmente.
+B. Subir comentarios, documentación y problemas sobre el código.
+C. Complicar el proceso de desarollo software.
+D. Mantener un historial de versiones en diferentes ramas.
+ANSWER:D
 
-B05-L02-Q28-Pregunta 3 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q29-¿Cuál NO es un sistema de construcción de sistemas?:
+A. Git.
+B. Make.
+C. Ant.
+D. Maven.
+ANSWER:A
 
-B05-L02-Q29-Pregunta 4 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
-
-B05-L02-Q30-Pregunta 5 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q30-La gestión de configuración es un/una...:
+A. Ciclo de vida.
+B. Ninguna de las otras opciones es correcta.
+C. Metodología.
+D. Proceso.
+ANSWER:D
 
 B05-L02-Q31-Pregunta Extra:
 A. Primera opción.
