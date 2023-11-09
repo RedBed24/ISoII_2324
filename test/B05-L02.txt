@@ -159,19 +159,19 @@ C. Configuration Control Board
 D. Configuration Management Plan
 ANSWER:C
 
-B05-L02-Q24-Pregunta 4 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q24- ¿Cual es la diferencia entre cambios y versiones de un producto software?
+A. Los cambios son modificaciones que se hacen en el producto para corregir errores o mejorar su rendimiento, mientras que las versiones son actualizaciones del produto que incluyen nuevas características o funcionalidades.
+B. Los cambios son actualizaciones del producto que incluyen nuevas características o funcionalidades, mientras que las versiones son modificaciones que se hacen en el producto para corregir errores o mejorar su rendimiento.
+C. Los cambios y las versiones son lo mismo, solo que se usan diferentes términos según el sector o la industria.
+D. Ninguna de las anteriores es correcta.
+ANSWER:A
 
-B05-L02-Q25-Pregunta 5 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L02-Q25- ¿Cual de los siguientes artefactos podría estar incluido en la liberación de un producto software?
+A. Código ejecutable del sistema.
+B. Archivos de configuración.
+C. Un programa de instalación.
+D. Todos los anteriores.
+ANSWER:D
 
 B05-L02-Q26-Pregunta 1 Samu:
 A. Primera opción.
