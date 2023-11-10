@@ -152,7 +152,7 @@ C. System versioning.
 D. System releasing.
 ANSWER: A
 
-B05-L02- ¿Cómo se llama el grupo de personas responsables de evaluar y aprobar o rechazar los cambios propuestos a los elementos de configuración?:
+B05-L02-Q23- ¿Cómo se llama el grupo de personas responsables de evaluar y aprobar o rechazar los cambios propuestos a los elementos de configuración?:
 A. Configuration Management Authority.
 B. Configuration Management Database.
 C. Configuration Control Board.
