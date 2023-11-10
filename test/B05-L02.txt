@@ -1,4 +1,4 @@
-B05-L02-Q01- ¿A qué rama pertenece la siguiente afirmación: Se realizan pruebas sobre la versión en pre-producción y se corrigen los defectos detectados?:
+B05-L02-Q01- Indica a qué rama pertenece la siguiente afirmación: "Se realizan pruebas sobre la versión en pre-producción y se corrigen los defectos detectados":
 A. Desarrollo.
 B. Release.
 C. Master.
@@ -15,11 +15,11 @@ ANSWER: C
 B05-L02-Q03- Señala la opción falsa sobre las 4 actividades básicas de la Gestión de Configuración:
 A. La construcción del sistema consiste en un proceso de ensamblar los componentes del programa, datos, y librerías y luego compilarlos y vincularlos para crear un sistema ejecutable.
 B. La gestión de liberaciones/entregas prepara el software para la entrega externa y hacer un seguimiento de las versiones del sistema que se entregaron para uso del cliente.
-C. La gestión de versiones hace un seguimiento de las diferentes versiones de los componentes del sistema y garantizar que los cambios hechos por diferentes desarrolladores a los componentes no interfieren entre sí.
+C. La gestión de versiones hace un seguimiento de las diferentes versiones de los componentes del sistema y garantiza que los cambios hechos por diferentes desarrolladores a los componentes no interfieren entre sí.
 D. La gestión del cambio incorpora cambios al software por parte de clientes y desarrolladores y estima los costes de realizar dichos cambios.
 ANSWER: D
 
-B05-L02-Q04- Señala la opción falsa: El Plan de Gestión de la Configuración debería incluir los siguientes elementos...:
+B05-L02-Q04- Señala la opción falsa: El Plan de Gestión de la Configuración debería incluir los siguientes elementos:
 A. Criterios para la identificación de los elementos de configuración.
 B. Políticas aplicables, directivas y procedimientos.
 C. Registro de peticiones de cambio y/o variación.
@@ -76,7 +76,7 @@ D. Trabajador del Consejo de Control de Configuración.
 ANSWER: A
 
 B05-L02-Q12- ¿Qué es el CCB (Consejo de Control de Configuración)?:
-A. Personal cualificado para realizar las entrevistas con el/los cliente/s.
+A. Personal cualificado para realizar las entrevistas con al cliente.
 B. Personal encargado de gestionar y controlar las pruebas del proyecto.
 C. Personal cualificado para evaluar, aceptar o rechazar todas las peticiones de cambios propuestos.
 D. Todas son falsas.
@@ -98,7 +98,7 @@ ANSWER: C
 
 B05-L02-Q15- ¿Qué significa Minimum Viable Product (Producto Mínimo Viable) MVP?:
 A. Es una versión de un producto con las características mínimas pero suficientes.
-B. Es una versión de un producto con las características mínimas pero insuficiente para mostrar nada al cliente.
+B. Es una versión de un producto con las características mínimas pero insuficientes para mostrar nada al cliente.
 C. Un documento que establece los elementos necesarios para ejercer la gestión de configuración.
 D. No existe algo así.
 ANSWER: A
@@ -138,7 +138,7 @@ C. Facilitar la colaboración en proyectos de desarrollo de software.
 D. Gestionar las tareas de control de calidad en el desarrollo de software.
 ANSWER: B
 
-B05-L02-Q21- ¿Cuál NO es un objetivo de la gestión de configuración?:
+B05-L02-Q21- ¿Cuál NO es un objetivo de la Gestión de Configuración?:
 A. Gestionar y controlar los elementos y configuraciones del sistema durante el ciclo de vida.
 B. Establecer y proteger la integridad de un producto o de los componentes de un producto a lo largo de su vida útil.
 C. Gestionar la coherencia entre un producto y su definición de configuración asociada.
@@ -176,7 +176,7 @@ ANSWER: D
 B05-L02-Q26- ¿Cuál NO es un recubrimiento de Git?:
 A. GitLab.
 B. GitHub.
-C. Git Push
+C. Git Push.
 D. Source Forge.
 ANSWER: C
 
@@ -201,10 +201,9 @@ C. Ant.
 D. Maven.
 ANSWER: A
 
-B05-L02-Q30- La gestión de configuración es un/una...:
+B05-L02-Q30- La Gestión de Configuración es un/una...:
 A. Ciclo de vida.
 B. Ninguna de las otras opciones es correcta.
 C. Metodología.
 D. Proceso.
 ANSWER: D
-
