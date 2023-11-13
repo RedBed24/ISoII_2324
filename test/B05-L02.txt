@@ -1,0 +1,209 @@
+B05-L02-Q01- Indica a qué rama pertenece la siguiente afirmación: "Se realizan pruebas sobre la versión en pre-producción y se corrigen los defectos detectados":
+A. Desarrollo.
+B. Release.
+C. Master.
+D. Características.
+ANSWER: B
+
+B05-L02-Q02- ¿Qué es el branching?:
+A. Versión operativa del sistema o de un componente que incorpora un subconjunto específico de las capacidades que la versión final deberá tener.
+B. Colección de versiones de componentes que construyen un sistema.
+C. Creación de una nueva línea base a partir de una versión existente.
+D. Conjunto software liberada/publicada de una aplicación, que puede contener todo o parte de dicha aplicación.
+ANSWER: C
+
+B05-L02-Q03- Señala la opción falsa sobre las 4 actividades básicas de la Gestión de Configuración:
+A. La construcción del sistema consiste en un proceso de ensamblar los componentes del programa, datos, y librerías y luego compilarlos y vincularlos para crear un sistema ejecutable.
+B. La gestión de liberaciones/entregas prepara el software para la entrega externa y hacer un seguimiento de las versiones del sistema que se entregaron para uso del cliente.
+C. La gestión de versiones hace un seguimiento de las diferentes versiones de los componentes del sistema y garantiza que los cambios hechos por diferentes desarrolladores a los componentes no interfieren entre sí.
+D. La gestión del cambio incorpora cambios al software por parte de clientes y desarrolladores y estima los costes de realizar dichos cambios.
+ANSWER: D
+
+B05-L02-Q04- Señala la opción falsa: El Plan de Gestión de la Configuración debería incluir los siguientes elementos:
+A. Criterios para la identificación de los elementos de configuración.
+B. Políticas aplicables, directivas y procedimientos.
+C. Registro de peticiones de cambio y/o variación.
+D. Responsabilidades de CM.
+ANSWER: C
+
+B05-L02-Q05- ¿Qué es un delta?:
+A. Cualquier incremento generado tras una iteración del desarrollo.
+B. Versión de un producto con las características mínimas pero suficientes que permite determinar si se satisfacen los requisitos más importante de los clientes.
+C. Documento que establece los elementos necesarios para ejercer la gestión de configuración.
+D. Petición por parte de un cliente interno o externo para hacer un cambio a la línea base de la configuración.
+ANSWER: A
+
+B05-L02-Q06- ¿Qué es una versión Alfa?:
+A. La versión Beta es una versión secundaria para que los clientes prueben el producto antes de que llegue al mercado mientras que la Alfa es la versión final corregida.
+B. La versión Alfa es una fase del ciclo de lanzamiento usada para comprobar que los errores encontrados en la versión Beta han sido corregidos. 
+C. La versión Alfa es la primera fase del ciclo de lanzamiento para comenzar las pruebas de software. A diferencia de la versión Beta, la Alfa no está disponible para los clientes.
+D. La versión Alfa es una versión para realizar pruebas con un plan que describe qué porciones de las funcionalidades de un sistema serán implementadas en cada release.
+ANSWER: C
+
+B05-L02-Q07- ¿Qué es la línea de código en el contexto de la Gestión de la Configuración?:
+A. Conjunto de versiones de un componente y otros elementos de configuración que dependen de tal componente.
+B. Unidad de medida utilizada para cuantificar el tamaño o la complejidad de un programa.
+C. Conjunto de todas las peticiones de cambio a los elementos de configuración.
+D. Conjunto de las iteraciones calculadas en la planificación del proyecto.
+ANSWER: A
+
+B05-L02-Q08- ¿Cuáles son las 4 actividades básicas de la Gestión de Configuración?:
+A. Gestión de versiones - Gestión de calidad - Gestión del cambio - Auditoría del sistema.
+B. Gestión del cambio - Gestión de versiones - Construcción del sistema - Gestión de liberaciones y entregas.
+C. Gestión de versiones - Construcción del sistema - Gestión de liberaciones y entregas - Gestión de integridad.
+D. Gestión del cambio - Reutilización de componentes - Líneas Base - Gestión de versiones.
+ANSWER: B
+
+B05-L02-Q09- ¿Cómo evitamos los efectos negativos de que el software sea abstracto, susceptible y dinámico?:
+A. Mediante la visibilidad, el control de cambios y la trazabilidad.
+B. Mediante la confidencialidad, la integridad y la disponibilidad.
+C. Mediante los modelos de ciclo de vida, los modelos de procesos y las metodologías de desarrollo.
+D. Mediante la planificación, el versionado y la calidad.
+ANSWER: A
+
+B05-L02-Q10- Según el Semantic Versioning, ¿cuál de las siguientes transiciones de versiones es válida?:
+A. 9.1.10 -> 9.2.11.
+B. 2.3.20 -> 2.4.20.
+C. 13.15.3 -> 13.15.2.
+D. 24.2.0 -> 24.3.0.
+ANSWER: D
+
+B05-L02-Q11- Si generas una Change Request (Petición de Cambio), ¿quién eres?:
+A. Cliente interno o externo.
+B. Diseñador gráfico.
+C. Jefe de la empresa.
+D. Trabajador del Consejo de Control de Configuración.
+ANSWER: A
+
+B05-L02-Q12- ¿Qué es el CCB (Consejo de Control de Configuración)?:
+A. Personal cualificado para realizar las entrevistas con al cliente.
+B. Personal encargado de gestionar y controlar las pruebas del proyecto.
+C. Personal cualificado para evaluar, aceptar o rechazar todas las peticiones de cambios propuestos.
+D. Todas son falsas.
+ANSWER: C
+
+B05-L02-Q13- Indica el formato visto en clase para numerar las distintas versiones del proyecto:
+A. p.M.m (Patch.Major.Minor).
+B. M.p.m (Major.Patch.Minor).
+C. m.M.p (Minor.Major.Patch).
+D. M.m.p (Major.Minor.Patch).
+ANSWER: D
+
+B05-L02-Q14- Si el proyecto se encuentra en una primera fase para comenzar las pruebas de software, ¿en qué fase está?:
+A. Fase Charlie.
+B. Fase Beta.
+C. Fase Alfa.
+D. Fase Delta.
+ANSWER: C
+
+B05-L02-Q15- ¿Qué significa Minimum Viable Product (Producto Mínimo Viable) MVP?:
+A. Es una versión de un producto con las características mínimas pero suficientes.
+B. Es una versión de un producto con las características mínimas pero insuficientes para mostrar nada al cliente.
+C. Un documento que establece los elementos necesarios para ejercer la gestión de configuración.
+D. No existe algo así.
+ANSWER: A
+
+B05-L02-Q16- ¿Cómo se representan los arreglos de fallos que no cambian la interfaz de una clase?:
+A. Minor.
+B. Patch.
+C. Major.
+D. Way.
+ANSWER: B
+
+B05-L02-Q17- Dentro del Git Flow, ¿para qué sirve la rama "hotfixes"?:
+A. Sirve como versión que se sube a preproducción.
+B. Sirve como versión que se sube a desarrollo.
+C. Sirve para arreglar errores de la aplicación después de haberlo llevado a producción.
+D. Sirve para arreglar errores de la aplicación antes de haberlo llevado a producción.
+ANSWER: C
+
+B05-L02-Q18- Indica cual afirmación es falsa respecto a la rama de desarrollo del Git Flow:
+A. Sobre ella se corrigen errores que han sido detectados en producción que no son urgentes.
+B. A partir de ella se crean las ramas para las nuevas funcionalidades a desarrollar.
+C. Los errores detectados corregidos se liberan con la siguiente versión.
+D. A partir de esta rama se crean las llamadas ramas "hotfixes".
+ANSWER: D
+
+B05-L02-Q19- ¿Cuál es el papel del Configuration Control Board (CCB) en un proyecto?:
+A. Supervisar el cumplimiento de los plazos de los diferentes elementos.
+B. Evaluar y aceptar o rechazar los cambios propuestos a los elementos de configuración.
+C. Gestionar los recursos humanos del proyecto.
+D. Supervisar que las actividades se lleven a cabo de una manera adecuada.
+ANSWER: B
+
+B05-L02-Q20- ¿Cuál es la función principal de un Tag (Etiqueta de identificación de versión de Software)?:
+A. Etiquetar archivos de software con información descriptiva.
+B. Proporcionar una identificación inmutable de una versión de software.
+C. Facilitar la colaboración en proyectos de desarrollo de software.
+D. Gestionar las tareas de control de calidad en el desarrollo de software.
+ANSWER: B
+
+B05-L02-Q21- ¿Cuál NO es un objetivo de la Gestión de Configuración?:
+A. Gestionar y controlar los elementos y configuraciones del sistema durante el ciclo de vida.
+B. Establecer y proteger la integridad de un producto o de los componentes de un producto a lo largo de su vida útil.
+C. Gestionar la coherencia entre un producto y su definición de configuración asociada.
+D. Minimizar los riesgos del proyecto por medio de una planificación anticipada que permita que el software cumpla las expectativas del cliente durante la fase de producción y posteriormente.
+ANSWER: D
+
+B05-L02-Q22- ¿Cómo se llama el proceso de creación de un ejecutable del sistema mediante la compilación y vinculación de los componentes del sistema, bibliotecas, archivos de configuración, etc.?:
+A. System building.
+B. System branching.
+C. System versioning.
+D. System releasing.
+ANSWER: A
+
+B05-L02-Q23- ¿Cómo se llama el grupo de personas responsables de evaluar y aprobar o rechazar los cambios propuestos a los elementos de configuración?:
+A. Configuration Management Authority.
+B. Configuration Management Database.
+C. Configuration Control Board.
+D. Configuration Management Plan.
+ANSWER: C
+
+B05-L02-Q24- ¿Cual es la diferencia entre cambios y versiones de un producto software?:
+A. Los cambios son modificaciones que se hacen en el producto para corregir errores o mejorar su rendimiento, mientras que las versiones son actualizaciones del produto que incluyen nuevas características o funcionalidades.
+B. Los cambios son actualizaciones del producto que incluyen nuevas características o funcionalidades, mientras que las versiones son modificaciones que se hacen en el producto para corregir errores o mejorar su rendimiento.
+C. Los cambios y las versiones son lo mismo, solo que se usan diferentes términos según el sector o la industria.
+D. Ninguna de las anteriores es correcta.
+ANSWER: A
+
+B05-L02-Q25- ¿Cual de los siguientes artefactos podría estar incluido en la liberación de un producto software?:
+A. Código ejecutable del sistema.
+B. Archivos de configuración.
+C. Un programa de instalación.
+D. Todos los anteriores.
+ANSWER: D
+
+B05-L02-Q26- ¿Cuál NO es un recubrimiento de Git?:
+A. GitLab.
+B. GitHub.
+C. Git Push.
+D. Source Forge.
+ANSWER: C
+
+B05-L02-Q27- ¿Cual de estos es un comando de Git?:
+A. pull-request.
+B. commit.
+C. finish.
+D. index.
+ANSWER: B
+
+B05-L02-Q28- ¿Para qué sirve Git?:
+A. Para guardar archivos localmente.
+B. Subir comentarios, documentación y problemas sobre el código.
+C. Complicar el proceso de desarollo software.
+D. Mantener un historial de versiones en diferentes ramas.
+ANSWER: D
+
+B05-L02-Q29- ¿Cuál NO es un sistema de construcción de sistemas?:
+A. Git.
+B. Make.
+C. Ant.
+D. Maven.
+ANSWER: A
+
+B05-L02-Q30- La Gestión de Configuración es un/una...:
+A. Ciclo de vida.
+B. Ninguna de las otras opciones es correcta.
+C. Metodología.
+D. Proceso.
+ANSWER: D
