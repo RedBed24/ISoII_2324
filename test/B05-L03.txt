@@ -1,16 +1,16 @@
-B05-L03-Q01-Pregunta 1 Noe:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L03-Q01-¿Cuál no es una característica del concepto de calidad?:
+A. Los criterios de calidad no son independientes.
+B. Es multi-dimensional.
+C. Está ligada a compromisos aceptables que tenemos que acordar con el cliente.
+D. Es absoluta.
+ANSWER:D
 
-B05-L03-Q02-Pregunta 2 Noe:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L03-Q02-Señala el orden correcto del ciclo de mejora continua:
+A. Plan, Do, Act, Check.
+B. Act, Check, Plan, Do.
+C. Plan, Do, Check, Act.
+D. Do, Plan, Act, Check.
+ANSWER:C
 
 B05-L03-Q03-Pregunta 3 Noe:
 A. Primera opción.
@@ -19,12 +19,12 @@ C. Tercera opción.
 D. Cuarta opción.
 ANSWER:B
 
-B05-L03-Q04-Pregunta 4 Noe:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L03-Q04-¿Qué norma de ISO25000 se encarga de los requisitos de calidad?:
+A. 2501n.
+B. 2502n.
+C. 2503n.
+D. 2504n.
+ANSWER:C
 
 B05-L03-Q05-Pregunta 5 Noe:
 A. Primera opción.
