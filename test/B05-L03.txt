@@ -173,40 +173,40 @@ C. Tercera opción.
 D. Cuarta opción.
 ANSWER:B
 
-B05-L03-Q26-Pregunta 1 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
+B05-L03-Q26-¿Cuál NO es una definición de calidad?:
+A. Adecuación al uso (Fitness for use).
+B. Cero defectos.
+C. No es malo.
+D. Conformidad con requisitos y confiabilidad en el funcionamiento.
 ANSWER:B
 
-B05-L03-Q27-Pregunta 2 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
+B05-L03-Q27-La calidad se tiene en cuenta desde la fase de...:
+A. Implementación.
+B. Diseño.
+C. Testing o Pruebas.
+D. Mantenimiento.
 ANSWER:B
 
-B05-L03-Q28-Pregunta 3 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L03-Q28-Indica la verdadera:
+A. La calidad depende únicamente de las especificaciones técnicas.
+B. La calidad sólo añade requisitos no funcionales.
+C. O se tiene o no se tiene calidad.
+D. La calidad es la adecuación al uso.
+ANSWER:D
 
-B05-L03-Q29-Pregunta 4 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L03-Q29-La calidad añade...:
+A. Requisitos no funcionales.
+B. Requisitos funcionales.
+C. Ambos.
+D. Ninguno.
+ANSWER:C
 
-B05-L03-Q30-Pregunta 5 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L03-Q30-La conformidad es...:
+A. Estar a gusto.
+B. Una política.
+C. El cumplimiento de un requisito.
+D. El incumplimiento de un requisito.
+ANSWER:C
 
 B05-L03-Q31-Pregunta Extra:
 A. Primera opción.
