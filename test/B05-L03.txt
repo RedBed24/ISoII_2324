@@ -26,11 +26,11 @@ C. 2503n.
 D. 2504n.
 ANSWER:C
 
-B05-L03-Q05-Pregunta 5 Noe:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
+B05-L03-Q05-¿Qué es SCAMPI?:
+A. Modelo de Referencia de Procesos.
+B. Modelo de Evaluación de Procesos.
+C. Modelos de Mejora de Procesos
+D. Ninguna de las anteriores.
 ANSWER:B
 
 B05-L03-Q06-Pregunta 1 Dani:
