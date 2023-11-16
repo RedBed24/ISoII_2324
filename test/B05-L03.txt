@@ -103,21 +103,21 @@ C. Tercera opción.
 D. Cuarta opción.
 ANSWER:B
 
-B05-L03-Q16- ¿Cuál de las siguientes normas de la ISO25000 existe?:
+B05-L03-Q16-¿Cuál de las siguientes normas de la ISO25000 existe?:
 A. ISO/IEC 2501n: División para el modelo de calidad.
 B. ISO/IEC 2505n: División para la corrección de calidad.
 C. ISO/IEC 2503n: División para los requisitos de calidad.
 D. La opción A y C son correctas.
 ANSWER:D
 
-B05-L03-Q17- Selecciona el que NO pertenezca a la ISO25040: evaluación de la calidad:
+B05-L03-Q17-Selecciona el que NO pertenezca a la ISO25040: evaluación de la calidad:
 A. LLevar a cabo la evaluación.
 B. Diseñar la evaluación.
 C. Establecer analistas de la evaluación.
 D. Establecer requisitos de la evaluación.
 ANSWER:C
 
-B05-L03-Q18- En el contexto de la gestión de la calidad, ¿cómo se define el término "corrección"?:
+B05-L03-Q18-En el contexto de la gestión de la calidad, ¿cómo se define el término "corrección"?:
 A. Cumplimiento de un requisito asociado a un uso previsto.
 B. Acción tomada sobre un producto no conforme para convertirlo en aceptable para su utilización prevista.
 C. Acción tomada para eliminar una no conformidad detectada.
@@ -131,7 +131,7 @@ C. Solo por madurez.
 D. Por capacidad, madurez y proceso.
 ANSWER:A
 
-B05-L03-Q20- ¿Qué es la ISO 33000?:
+B05-L03-Q20-¿Qué es la ISO 33000?:
 A. Es una ISO que sirve para la realización de los procesos.
 B. No existe esta ISO.
 C. Es una ISO que define un modelo para la evaluación de los procesos.
