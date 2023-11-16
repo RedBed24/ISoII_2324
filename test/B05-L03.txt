@@ -134,8 +134,8 @@ ANSWER:A
 B05-L03-Q20- ¿Qué es la ISO 33000?:
 A. Es una ISO que sirve para la realización de los procesos.
 B. No existe esta ISO.
-C. Es una ISO que sirve para la evaluación de los procesos.
-D. Es una ISO que sirve para la evaluación de la calidad.
+C. Es una ISO que define un modelo para la evaluación de los procesos.
+D. Es una ISO que define un modelo para la evaluación de la calidad.
 ANSWER:C
 
 B05-L03-Q21-Pregunta 1 Marce:
