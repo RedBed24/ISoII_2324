@@ -138,40 +138,40 @@ C. Es una ISO que define un modelo para la evaluación de los procesos.
 D. Es una ISO que define un modelo para la evaluación de la calidad.
 ANSWER:C
 
-B05-L03-Q21-Pregunta 1 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
+B05-L03-Q21- ¿Cual de los siguientes es un Modelo de evaluación de procesos?:
+A. ISO 33000
+B. SCRUM
+C. CMMI-DEV
+D. RADIT
+ANSWER:A
+
+B05-L03-Q22- ¿Cual es el nivel de madurez de una organización más alto atendiendo al modelo de evaluación ISO 33000?
+A. Evolucionada
+B. Gestionada
+C. Innovada
+D. Establecida
+ANSWER:C
+
+B05-L03-Q23- ¿Cual de las siguientes afirmaciones es cierta?:
+A. La mejora de procesos es un proceso NO cíclico
+B. El máximo nivel de capacidad que alcanzan al menos todos los procesos de una empresa constituye el nivel de madurez de la misma
+C. ISO 33000 es una versión evolucionada y ampliada de CMMI
+D. Todas las anteriores son falsas
 ANSWER:B
 
-B05-L03-Q22-Pregunta 2 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
+B05-L03-Q24- Según el modelo MMIS 2.0 AENOR-AQCLab ¿Cual de los siguientes no es un proceso que deba incluir como mínimo una empresa con nivel 2 de madurez?
+A. Proceso de Sumnistro
+B. Proceos de Análisis de la Misión/Negocio
+C. Proceso de Medición
+D. Proceso de Planificacion
 ANSWER:B
 
-B05-L03-Q23-Pregunta 3 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
-
-B05-L03-Q24-Pregunta 4 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
-
-B05-L03-Q25-Pregunta 5 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L03-Q25- Cual de las siguientes NO es una fase de una Auditoría de Certificación de Madurez de una organización?
+A. Estudio de la documentación
+B. Elaboración del informe de evaluación
+C. Planificación de la auditoría
+D. Análisis de derechos laborales de los trabajadores
+ANSWER:D
 
 B05-L03-Q26-¿Cuál NO es una definición de calidad?:
 A. Adecuación al uso (Fitness for use).
