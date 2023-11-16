@@ -12,12 +12,12 @@ C. Plan, Do, Check, Act.
 D. Do, Plan, Act, Check.
 ANSWER:C
 
-B05-L03-Q03-Pregunta 3 Noe:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L03-Q03-¿Cúal de las siguientes opciones no es un objetivo de Mejora del Proceso?:
+A. Definir el proceso.
+B. Medir el proceso.
+C. Utilizar el proceso.
+D. Planificar el proceso.
+ANSWER:D
 
 B05-L03-Q04-¿Qué norma de ISO25000 se encarga de los requisitos de calidad?:
 A. 2501n.
