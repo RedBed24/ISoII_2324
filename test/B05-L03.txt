@@ -1,217 +1,209 @@
-B05-L03-Q01-¿Cuál no es una característica del concepto de calidad?:
+B05-L03-Q01- ¿Cuál no es una característica del concepto de calidad?:
 A. Los criterios de calidad no son independientes.
 B. Es multi-dimensional.
 C. Está ligada a compromisos aceptables que tenemos que acordar con el cliente.
 D. Es absoluta.
-ANSWER:D
+ANSWER: D
 
-B05-L03-Q02-Señala el orden correcto del ciclo de mejora continua:
+B05-L03-Q02- Señala el orden correcto del ciclo de mejora continua:
 A. Plan, Do, Act, Check.
 B. Act, Check, Plan, Do.
 C. Plan, Do, Check, Act.
 D. Do, Plan, Act, Check.
-ANSWER:C
+ANSWER: C
 
-B05-L03-Q03-¿Cúal de las siguientes opciones no es un objetivo de Mejora del Proceso?:
+B05-L03-Q03- ¿Cúal de las siguientes opciones no es un objetivo de Mejora del Proceso?:
 A. Definir el proceso.
 B. Medir el proceso.
 C. Utilizar el proceso.
 D. Planificar el proceso.
-ANSWER:D
+ANSWER: D
 
-B05-L03-Q04-¿Qué norma de ISO25000 se encarga de los requisitos de calidad?:
+B05-L03-Q04- ¿Qué norma de ISO25000 se encarga de los requisitos de calidad?:
 A. 2501n.
 B. 2502n.
 C. 2503n.
 D. 2504n.
-ANSWER:C
+ANSWER: C
 
-B05-L03-Q05-¿Qué es SCAMPI?:
+B05-L03-Q05- ¿Qué es SCAMPI?:
 A. Modelo de Referencia de Procesos.
 B. Modelo de Evaluación de Procesos.
 C. Modelos de Mejora de Procesos
 D. Ninguna de las anteriores.
-ANSWER:B
+ANSWER: B
 
-B05-L03-Q06-Pregunta 1 Dani:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L03-Q06- El "no repudio" garantiza la participación de las distinas partes en una comunicación. ¿Con qué característica de calidad está relacionada?:
+A. Seguridad.
+B. Compatibilidad.
+C. Portabilidad.
+D. Fiabilidad.
+ANSWER: A
 
-B05-L03-Q07-Pregunta 2 Dani:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L03-Q07- Para obtener un producto de calidad...:
+A. Basta con hacer bien el software.
+B. Los buenos procesos son necesarios, pero no suficientes.
+C. Los buenos procesos son suficientes y, por supuesto, necesarios.
+D. No importa cómo se hacen las cosas. El esfuerzo para alcanzar un producto de calidad seguirá siendo el mismo.
+ANSWER: B
 
-B05-L03-Q08-Pregunta 3 Dani:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L03-Q08- En las auditorías de certificación en el modelo MMIS 2.0 AENOR - AQCLab...:
+A. Se comprueba que la documentación existente de la empresa es realmente como la organización trabaja.
+B. Los auditores elaboran un informe final que describe los hallazgos detectados para que la organización los pueda mejorar o arreglar antes de conseguir la certificación.
+C. El equipo auditor pide la documentación a la empresa para ver si tiene sus procesos definidos.
+D. Todas las anteriores son verdaderas.
+ANSWER: D
 
-B05-L03-Q09-Pregunta 4 Dani:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L03-Q09- ¿A qué hacen referencia los niveles de madurez y de capacidad, respectivamente?:
+A. Los niveles de madurez a la calidad de la empresa y los niveles de capacidad a la de los procesos.
+B. Los niveles de madurez a los modelos de procesos y los niveles de capacidad a las metodologías.
+C. Los niveles de madurez a hacer las cosas bien y los niveles de capacidad a hacer buen software.
+D. Los niveles de madurez a la gestión de configuración y los niveles de capacidad a la calidad.
+ANSWER: A
 
-B05-L03-Q10-Pregunta 5 Dani:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L03-Q10- En calidad de procesos software, para alcanzar un nivel de madurez...:
+A. Hay que pasar una auditoría de certificación por cada uno de los procesos asociados.
+B. Hay que alcanzar niveles de capacidad altos en procesos concretos.
+C. Hay que alcanzar el nivel de capacidad de cada uno de los procesos asociados.
+D. La empresa debe disponer de productos de calidad.
+ANSWER: C
 
-B05-L03-Q11-Señala la frase verdadera sobre la calidad:
+B05-L03-Q11- Señala la frase verdadera sobre la calidad:
 A. La calidad tiene un coste importante dentro del proyecto.
 B. La calidad se plantea en la etapa de implementación.
 C. Es una medida absoluta.
 D. No está sujeta a restricciones.
-ANSWER:A
+ANSWER: A
 
-B05-L03-Q12-Según la ISO25010, señale los puntos de vista desde los que se puede evaluar la calidad de un producto software:
+B05-L03-Q12- Según la ISO25010, señale los puntos de vista desde los que se puede evaluar la calidad de un producto software:
 A. Adecuación funcional, fiabilidad, seguridad, compatibilidad, portabilidad, latencia, medición y capacidad de uso.
 B. Adecuación funcional, fiabilidad, seguridad, compatibilidad, portabilidad, mantenibilidad, eficiacia y ancho de banda.
 C. Adecuación funcional, fiabilidad, seguridad, compatibilidad, portabilidad, mantenibilidad, eficiacia y capacidad de uso.
 D. Depende de nuestro punto de vista, todas son falsas.
-ANSWER:C
+ANSWER: C
 
-B05-L03-Q13-¿Qué es una acción correctiva?
+B05-L03-Q13- ¿Qué es una acción correctiva?:
 A. Acción tomada para eliminar la causa de una no conformidad potencial u otra situación potencialmente indeseable.
 B. Incumplimiento de un requisito.
 C. Establecer requisitos de evaluación.
 D. Acción tomada para eliminar la causa de una no conformidad detectada u otra situación indeseable.
-ANSWER:D
+ANSWER: D
 
-B05-L03-Q14-¿Qué es lo susceptible de tener calidad?
+B05-L03-Q14- ¿Qué es lo susceptible de tener calidad?:
 A. Tener buenos procesos.
 B. Cumplir con todos los estándares.
 C. Hacer bien los procesos y realizar buen software.
 D. Entregar un software que cumpla con todos los requisitos del cliente.
-ANSWER:C
+ANSWER: C
 
-B05-L03-Q15-Muchas empresas pasan del grado de madurez 3 al 5 sin estar mucho tiempo en el 4. ¿Sabes el motivo?
+B05-L03-Q15- Muchas empresas pasan del grado de madurez 3 al 5 sin estar mucho tiempo en el 4. ¿Sabes el motivo?:
 A. Verdadero, ya que los estudios estadísticos se aplican a realizar cambios para la mejora de procesos (características del nivel 5).
 B. Verdadero, ya que no tiene coste ni esfuerzo alguno mantenerse en el grado de madurez 5.
 C. Falso, el grado de madurez 5 es solo un modelo ideal, ninguna empresa es capaz de llegar a esa idealización.
 D. Falso, es al revés. Normalmente se quedan en el grado de madurez 4 sin subir al 5.
-ANSWER:A
+ANSWER: A
 
-B05-L03-Q16-¿Cuál de las siguientes normas de la ISO25000 existe?:
+B05-L03-Q16- ¿Cuál de las siguientes normas de la ISO25000 existe?:
 A. ISO/IEC 2501n: División para el modelo de calidad.
 B. ISO/IEC 2505n: División para la corrección de calidad.
 C. ISO/IEC 2503n: División para los requisitos de calidad.
 D. La opción A y C son correctas.
-ANSWER:D
+ANSWER: D
 
-B05-L03-Q17-Selecciona el que NO pertenezca a la ISO25040: evaluación de la calidad:
+B05-L03-Q17- Selecciona el que NO pertenezca a la ISO25040: evaluación de la calidad:
 A. LLevar a cabo la evaluación.
 B. Diseñar la evaluación.
 C. Establecer analistas de la evaluación.
 D. Establecer requisitos de la evaluación.
-ANSWER:C
+ANSWER: C
 
-B05-L03-Q18-En el contexto de la gestión de la calidad, ¿cómo se define el término "corrección"?:
+B05-L03-Q18- En el contexto de la gestión de la calidad, ¿cómo se define el término "corrección"?:
 A. Cumplimiento de un requisito asociado a un uso previsto.
 B. Acción tomada sobre un producto no conforme para convertirlo en aceptable para su utilización prevista.
 C. Acción tomada para eliminar una no conformidad detectada.
 D. Acción tomada sobre un producto no conforme para impedir su uso previsto.
-ANSWER:C
+ANSWER: C
 
-B05-L03-Q19-Dentro del contexto del concepto de madurez/capacidad, ¿qué tipos de evaluación hay?:
+B05-L03-Q19- Dentro del contexto del concepto de madurez/capacidad, ¿qué tipos de evaluación hay?:
 A. Por capacidad y madurez.
 B. Solo por capacidad.
 C. Solo por madurez.
 D. Por capacidad, madurez y proceso.
 ANSWER:A
 
-B05-L03-Q20-¿Qué es la ISO 33000?:
+B05-L03-Q20- ¿Qué es la ISO 33000?:
 A. Es una ISO que sirve para la realización de los procesos.
 B. No existe esta ISO.
 C. Es una ISO que define un modelo para la evaluación de los procesos.
 D. Es una ISO que define un modelo para la evaluación de la calidad.
 ANSWER:C
 
-B05-L03-Q21- ¿Cual de los siguientes es un Modelo de evaluación de procesos?:
+B05-L03-Q21- ¿Cuál de los siguientes es un Modelo de evaluación de procesos?:
 A. ISO 33000
 B. SCRUM
 C. CMMI-DEV
 D. RADIT
 ANSWER:A
 
-B05-L03-Q22- ¿Cual es el nivel de madurez de una organización más alto atendiendo al modelo de evaluación ISO 33000?
-A. Evolucionada
-B. Gestionada
-C. Innovada
-D. Establecida
-ANSWER:C
+B05-L03-Q22- ¿Cuál es el nivel de madurez de una organización más alto atendiendo al modelo de evaluación ISO 33000?:
+A. Evolucionada.
+B. Gestionada.
+C. Innovada.
+D. Establecida.
+ANSWER: C
 
-B05-L03-Q23- ¿Cual de las siguientes afirmaciones es cierta?:
-A. La mejora de procesos es un proceso NO cíclico
-B. El máximo nivel de capacidad que alcanzan al menos todos los procesos de una empresa constituye el nivel de madurez de la misma
-C. ISO 33000 es una versión evolucionada y ampliada de CMMI
-D. Todas las anteriores son falsas
-ANSWER:B
+B05-L03-Q23- ¿Cuál de las siguientes afirmaciones es cierta?:
+A. La mejora de procesos no es un proceso cíclico.
+B. El máximo nivel de capacidad que alcanzan al menos todos los procesos de una empresa constituye el nivel de madurez de la misma.
+C. ISO 33000 es una versión evolucionada y ampliada de CMMI.
+D. Todas las anteriores son falsas.
+ANSWER: B
 
-B05-L03-Q24- Según el modelo MMIS 2.0 AENOR-AQCLab ¿Cual de los siguientes no es un proceso que deba incluir como mínimo una empresa con nivel 2 de madurez?
-A. Proceso de Sumnistro
-B. Proceos de Análisis de la Misión/Negocio
-C. Proceso de Medición
-D. Proceso de Planificacion
-ANSWER:B
+B05-L03-Q24- Según el modelo MMIS 2.0 AENOR-AQCLab, ¿cuál de los siguientes no es un proceso que deba incluir como mínimo una empresa con nivel 2 de madurez?:
+A. Proceso de Suministro.
+B. Proceos de Análisis de la Misión/Negocio.
+C. Proceso de Medición.
+D. Proceso de Planificación.
+ANSWER: B
 
-B05-L03-Q25- Cual de las siguientes NO es una fase de una Auditoría de Certificación de Madurez de una organización?
-A. Estudio de la documentación
-B. Elaboración del informe de evaluación
-C. Planificación de la auditoría
-D. Análisis de derechos laborales de los trabajadores
-ANSWER:D
+B05-L03-Q25- Cual de las siguientes NO es una fase de una Auditoría de Certificación de Madurez de una organización?:
+A. Estudio de la documentación.
+B. Elaboración del informe de evaluación.
+C. Planificación de la auditoría.
+D. Análisis de derechos laborales de los trabajadores.
+ANSWER: D
 
-B05-L03-Q26-¿Cuál NO es una definición de calidad?:
+B05-L03-Q26- ¿Cuál NO es una definición de calidad?:
 A. Adecuación al uso (Fitness for use).
 B. Cero defectos.
 C. No es malo.
 D. Conformidad con requisitos y confiabilidad en el funcionamiento.
-ANSWER:B
+ANSWER: B
 
-B05-L03-Q27-La calidad se tiene en cuenta desde la fase de...:
+B05-L03-Q27- La calidad se tiene en cuenta desde la fase de...:
 A. Implementación.
 B. Diseño.
 C. Testing o Pruebas.
 D. Mantenimiento.
-ANSWER:B
+ANSWER: B
 
-B05-L03-Q28-Indica la verdadera:
+B05-L03-Q28- Indica la verdadera:
 A. La calidad depende únicamente de las especificaciones técnicas.
 B. La calidad sólo añade requisitos no funcionales.
 C. O se tiene o no se tiene calidad.
 D. La calidad es la adecuación al uso.
-ANSWER:D
+ANSWER: D
 
-B05-L03-Q29-La calidad añade...:
+B05-L03-Q29- La calidad añade...:
 A. Requisitos no funcionales.
 B. Requisitos funcionales.
 C. Ambos.
 D. Ninguno.
-ANSWER:C
+ANSWER: C
 
-B05-L03-Q30-La conformidad es...:
+B05-L03-Q30- La conformidad es...:
 A. Estar a gusto.
 B. Una política.
 C. El cumplimiento de un requisito.
 D. El incumplimiento de un requisito.
-ANSWER:C
-
-B05-L03-Q31-Pregunta Extra:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
-
+ANSWER: C
