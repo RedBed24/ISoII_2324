@@ -68,40 +68,40 @@ C. Tercera opción.
 D. Cuarta opción.
 ANSWER:B
 
-B05-L03-Q11-Pregunta 1 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L03-Q11-Señala la frase verdadera sobre la calidad:
+A. La calidad tiene un coste importante dentro del proyecto.
+B. La calidad se plantea en la etapa de implementación.
+C. Es una medida absoluta.
+D. No está sujeta a restricciones.
+ANSWER:A
 
-B05-L03-Q12-Pregunta 2 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L03-Q12-Según la ISO25010, señale los puntos de vista desde los que se puede evaluar la calidad de un producto software:
+A. Adecuación funcional, fiabilidad, seguridad, compatibilidad, portabilidad, latencia, medición y capacidad de uso.
+B. Adecuación funcional, fiabilidad, seguridad, compatibilidad, portabilidad, mantenibilidad, eficiacia y ancho de banda.
+C. Adecuación funcional, fiabilidad, seguridad, compatibilidad, portabilidad, mantenibilidad, eficiacia y capacidad de uso.
+D. Depende de nuestro punto de vista, todas son falsas.
+ANSWER:C
 
-B05-L03-Q13-Pregunta 3 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L03-Q13-¿Qué es una acción correctiva?
+A. Acción tomada para eliminar la causa de una no conformidad potencial u otra situación potencialmente indeseable.
+B. Incumplimiento de un requisito.
+C. Establecer requisitos de evaluación.
+D. Acción tomada para eliminar la causa de una no conformidad detectada u otra situación indeseable.
+ANSWER:D
 
-B05-L03-Q14-Pregunta 4 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L03-Q14-¿Qué es lo susceptible de tener calidad?
+A. Tener buenos procesos.
+B. Cumplir con todos los estándares.
+C. Hacer bien los procesos y realizar buen software.
+D. Entregar un software que cumpla con todos los requisitos del cliente.
+ANSWER:C
 
-B05-L03-Q15-Pregunta 5 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L03-Q15-Muchas empresas pasan del grado de madurez 3 al 5 sin estar mucho tiempo en el 4. ¿Sabes el motivo?
+A. Verdadero, ya que los estudios estadísticos se aplican a realizar cambios para la mejora de procesos (características del nivel 5).
+B. Verdadero, ya que no tiene coste ni esfuerzo alguno mantenerse en el grado de madurez 5.
+C. Falso, el grado de madurez 5 es solo un modelo ideal, ninguna empresa es capaz de llegar a esa idealización.
+D. Falso, es al revés. Normalmente se quedan en el grado de madurez 4 sin subir al 5.
+ANSWER:A
 
 B05-L03-Q16-¿Cuál de las siguientes normas de la ISO25000 existe?:
 A. ISO/IEC 2501n: División para el modelo de calidad.
