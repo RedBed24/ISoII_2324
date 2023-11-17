@@ -77,16 +77,16 @@ ANSWER: A
 
 B05-L03-Q12- Según la ISO25010, señale los puntos de vista desde los que se puede evaluar la calidad de un producto software:
 A. Adecuación funcional, fiabilidad, seguridad, compatibilidad, portabilidad, latencia, medición y capacidad de uso.
-B. Adecuación funcional, fiabilidad, seguridad, compatibilidad, portabilidad, mantenibilidad, eficiacia y ancho de banda.
-C. Adecuación funcional, fiabilidad, seguridad, compatibilidad, portabilidad, mantenibilidad, eficiacia y capacidad de uso.
-D. Depende de nuestro punto de vista, todas son falsas.
+B. Adecuación funcional, fiabilidad, seguridad, compatibilidad, portabilidad, mantenibilidad, eficacia y ancho de banda.
+C. Adecuación funcional, fiabilidad, seguridad, compatibilidad, portabilidad, mantenibilidad, eficacia y capacidad de uso.
+D. Todas son falsas.
 ANSWER: C
 
 B05-L03-Q13- ¿Qué es una acción correctiva?:
-A. Acción tomada para eliminar la causa de una no conformidad potencial u otra situación potencialmente indeseable.
-B. Incumplimiento de un requisito.
-C. Establecer requisitos de evaluación.
-D. Acción tomada para eliminar la causa de una no conformidad detectada u otra situación indeseable.
+A. Acción tomada para evitar que surjan no conformidades.
+B. Acción tomada al incumplir un requisito.
+C. Acción tomada para establecer requisitos de evaluación.
+D. Acción tomada para eliminar las no conformidades detectadas.
 ANSWER: D
 
 B05-L03-Q14- ¿Qué es lo susceptible de tener calidad?:
@@ -129,21 +129,21 @@ A. Por capacidad y madurez.
 B. Solo por capacidad.
 C. Solo por madurez.
 D. Por capacidad, madurez y proceso.
-ANSWER:A
+ANSWER: A
 
 B05-L03-Q20- ¿Qué es la ISO 33000?:
 A. Es una ISO que sirve para la realización de los procesos.
 B. No existe esta ISO.
 C. Es una ISO que define un modelo para la evaluación de los procesos.
 D. Es una ISO que define un modelo para la evaluación de la calidad.
-ANSWER:C
+ANSWER: C
 
 B05-L03-Q21- ¿Cuál de los siguientes es un Modelo de evaluación de procesos?:
-A. ISO 33000
-B. SCRUM
-C. CMMI-DEV
-D. RADIT
-ANSWER:A
+A. ISO 33000.
+B. SCRUM.
+C. CMMI-DEV.
+D. RADIT.
+ANSWER: A
 
 B05-L03-Q22- ¿Cuál es el nivel de madurez de una organización más alto atendiendo al modelo de evaluación ISO 33000?:
 A. Evolucionada.
@@ -178,7 +178,7 @@ A. Adecuación al uso (Fitness for use).
 B. Cero defectos.
 C. No es malo.
 D. Conformidad con requisitos y confiabilidad en el funcionamiento.
-ANSWER: B
+ANSWER: C
 
 B05-L03-Q27- La calidad se tiene en cuenta desde la fase de...:
 A. Implementación.
