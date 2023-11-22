@@ -173,40 +173,40 @@ C. Tercera opción.
 D. Cuarta opción.
 ANSWER:B
 
-B05-L04-Q26-Pregunta 1 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L04-Q26-¿Cuál es un tipo de prueba?:
+A. Caja negra (funcional).
+B. Caja gris (unitaria).
+C. Caja arcoíris (sistema).
+D. Caja escala de grises (integración).
+ANSWER:A
 
-B05-L04-Q27-Pregunta 2 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L04-Q27-¿Cuál NO es un nivel de prueba?:
+A. Sistema.
+B. Integración.
+C. Unitaria.
+D. Codificación.
+ANSWER:D
 
-B05-L04-Q28-Pregunta 3 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L04-Q28-¿Cuál es el objetivo de las pruebas?:
+A. Eliminar los errores de sintaxis.
+B. Obtener la cobertura.
+C. Encontrar fallos.
+D. Asegurar que funciona.
+ANSWER:C
 
-B05-L04-Q29-Pregunta 4 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L04-Q29-¿Cuál NO es un framework de pruebas?:
+A. JUnit.
+B. PyTest.
+C. UnitTest.
+D. gcc.
+ANSWER:D
 
-B05-L04-Q30-Pregunta 5 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L04-Q30-El valor de la prueba se puede definir como...:
+A. Razón número de fallos encontrados entre el número de pruebas realizadas.
+B. El número de pruebas realizadas.
+C. Las pruebas no aportan valor.
+D. Razón número de pruebas realizadas entre el tiempo medio de las pruebas.
+ANSWER:A
 
 B05-L04-Q31-Pregunta Extra:
 A. Primera opción.
