@@ -138,39 +138,39 @@ C. Tercera opción.
 D. Cuarta opción.
 ANSWER:B
 
-B05-L04-Q21-Pregunta 1 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
+B05-L04-Q21-¿Cual de las siguientes es una característica de las metodologías basadas en pruebas?
+A. Son metodologías de Desarrollo Software.
+B. Son metodologías de gestión y creación de pruebas.
+C. Tienen muy poco uso en la actualidad.
+D. No casan muy bien con las metodologías ágiles.
+ANSWER:A
+
+B05-L04-Q22-¿Que son las pruebas de regresión?
+A. Aquellas que nos garantizan la seguridad de que las nuevas modificaciónes del programa no rompen nada de lo construido anteriormente.
+B. Aquellas que garantizan que las nuevas modificaciones del programa siempre rompan algo de lo construido anteriormente.
+C. Aquellas que no tienen ninguna relación con la seguridad de las modificaciones en el programa.
+D. Aquellas que solo se aplican a situaciones específicas y no a cambios generales en el código.
+ANSWER:A
+
+B05-L04-Q23-El nivel de cobertura de un sistema es...
+A. La cantidad de usuarios que utilizan el sistema en un momento dado.
+B. La velocidad a la que el sistema puede procesar la información.
+C. La frecuencia con la que se realizan actualizaciones en el sistema.
+D. El grado en el que ciertas partes del sistema han sido probadas.
+ANSWER:D
+
+B05-L04-Q24-Escoge la opción verdadera sobre niveles de cobertura de un sistema:
+A. La cobertura de sentencias es distinta a la de líneas de código.
+B. La cobertura de decisiónes es menos detallada (más general) que la cobertura de condiciones
+C. El objetivo es poder añadir casos de prueba adicionales sobre las partes del sistema ya exploradas
+D. Una parte cubierta por casos de prueba indica necesariamente que está libre de errores.
 ANSWER:B
 
-B05-L04-Q22-Pregunta 2 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
-
-B05-L04-Q23-Pregunta 3 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
-
-B05-L04-Q24-Pregunta 4 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
-
-B05-L04-Q25-Pregunta 5 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
+B05-L04-Q25-En las pruebas de mutación...
+A. Cuanto más grande sea el porcentaje de programas mutantes muertos peor es la elección de casos de prueba.
+B. Se matan los programas mutantes en los que la salida producida al probarlos sea diferente a la del programa original 
+C. Los programas mutantes no cambian el código del programa original.
+D. No lleva demasiado tiempo a los programadores probar un número grande de programas mutantes para el conjunto de los casos de prueba.
 ANSWER:B
 
 B05-L04-Q26-¿Cuál es un tipo de prueba?:
