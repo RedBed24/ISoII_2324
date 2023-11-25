@@ -103,40 +103,44 @@ C. Tercera opción.
 D. Cuarta opción.
 ANSWER:B
 
-B05-L04-Q16-Pregunta 1 Antonio:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
+B05-L04-Q16-¿Cuál de los siguientes NO es uno de los objetivos de las pruebas de mutación?:
+A. Diseñar nuevas pruebas de software.
+B. Corregir el código al ver que la prueba está mal.
+C. Evaluar la calidad de las pruebas ya existentes.
+D. Todas son correctas.
 ANSWER:B
 
-B05-L04-Q17-Pregunta 2 Antonio:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
+B05-L04-Q17-Dentro de las metodologías basadas en pruebas, ¿cuál de las siguientes NO existe?:
+A. TDD (Test-Driven Development).
+B. ATDD (Aceptance-Test-Driven Development).
+C. BDD (Behaviour-Driven Development).
+D. ADD (Aceptance-Driven Development).
+ANSWER:D
+
+B05-L04-Q18-Indica la afirmación correcta respecto al criterio de cobertura "pairwise":
+A. La estrategia de combinación de este criterio es la del cálculo del producto cartesiano.
+B. Los casos de prueba deben de visitar todos los pares de valores de dos parámetros cualesquiera.
+C. Los casos de prueba deben de visitar, al menos una vez, los pares de valores de dos parámetros cualesquiera.
+D. La estrategia de combinación de este criterio es la de que cada valor se utiliza al menos en un caso caso de prueba.
+ANSWER:C
+
+B05-L04-Q19-¿Qué diferencia tienen las pruebas de caja blanca con las de caja negra?:
+A. Las de caja blanca son funcionales y las de caja negra estructurales.
+B. En las de caja blanca se conoce la estructura interna del programa y en las de caja blanca las entradas y salidas.
+C. En las de caja blanca no nos importa lo que hay dentro y en las de caja negra si.
+D. No existen diferencias, son lo mismo pero que puede ser llamado con diferentes nombres.
 ANSWER:B
 
-B05-L04-Q18-Pregunta 3 Antonio:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
-
-B05-L04-Q19-Pregunta 4 Antonio:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
-
-B05-L04-Q20-Pregunta 5 Antonio:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L04-Q20-Indica cual es la afirmación correcta sobre el nivel de cobertura modificada de condiciones/decisiones:
+A. Se satisface cuando cada posible valor de una condición determina la 
+salida de la decisión al menos una vez.
+B. Se satisface cuando todas las condiciones toman valor true y false de 
+manera que se recorra la tabla de verdad completa de la decisión.
+C. Se satisface cuando cada condición y decisión se evalúa a true y a false
+al menos una vez.
+D.  Se satisface cuando cada condición se evalúa a true y a false al menos 
+una vez.
+ANSWER:A
 
 B05-L04-Q21-¿Cual de las siguientes es una característica de las metodologías basadas en pruebas?
 A. Son metodologías de Desarrollo Software.
