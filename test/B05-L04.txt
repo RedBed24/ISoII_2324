@@ -126,7 +126,7 @@ ANSWER:C
 
 B05-L04-Q19-¿Qué diferencia tienen las pruebas de caja blanca con las de caja negra?:
 A. Las de caja blanca son funcionales y las de caja negra estructurales.
-B. En las de caja blanca se conoce la estructura interna del programa y en las de caja blanca las entradas y salidas.
+B. En las de caja blanca se conoce la estructura interna del programa y en las de caja negra las entradas y salidas.
 C. En las de caja blanca no nos importa lo que hay dentro y en las de caja negra si.
 D. No existen diferencias, son lo mismo pero que puede ser llamado con diferentes nombres.
 ANSWER:B
