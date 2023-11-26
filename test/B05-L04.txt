@@ -19,19 +19,19 @@ C. AETG (Automatic Efficient Test Generator).
 D. TUID (TechnoUnity Identity Dynamics).
 ANSWER:B
 
-B05-L04-Q04-Pregunta 4 Noe:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L04-Q04-Señala la opción correcta relacionada con los términos error, defecto y fallo::
+A. El error lo realiza el programador. El defecto lo percibe el tester. El fallo lo detecta el usuario.
+B. El defecto es un desvío respecto al comportamiento requerido del sistema percibido por el usuario.
+C. El error es una equivocación realizada por el programador y el fallo es un error de software detectado por el tester.
+D. El fallo lo realiza el programador. El defecto lo percibe el tester. El error lo detecta el usuario. 
+ANSWER:A
 
-B05-L04-Q05-Pregunta 5 Noe:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L04-Q05-Tenemos la necesidad de saber cuando un programa falla para un conjunto de datos dados ¿Quién o qué se encarga de esta función?:
+A. Oráculo.
+B. Caso de prueba.
+C. Tester.
+D. BDD (Behaviour-driven development)
+ANSWER:A
 
 B05-L04-Q06-Pregunta 1 Dani:
 A. Primera opción.
@@ -132,14 +132,10 @@ D. No existen diferencias, son lo mismo pero que puede ser llamado con diferente
 ANSWER:B
 
 B05-L04-Q20-Indica cual es la afirmación correcta sobre el nivel de cobertura modificada de condiciones/decisiones:
-A. Se satisface cuando cada posible valor de una condición determina la 
-salida de la decisión al menos una vez.
-B. Se satisface cuando todas las condiciones toman valor true y false de 
-manera que se recorra la tabla de verdad completa de la decisión.
-C. Se satisface cuando cada condición y decisión se evalúa a true y a false
-al menos una vez.
-D.  Se satisface cuando cada condición se evalúa a true y a false al menos 
-una vez.
+A. Se satisface cuando cada posible valor de una condición determina la salida de la decisión al menos una vez.
+B. Se satisface cuando todas las condiciones toman valor true y false de manera que se recorra la tabla de verdad completa de la decisión.
+C. Se satisface cuando cada condición y decisión se evalúa a true y a falseal menos una vez.
+D. Se satisface cuando cada condición se evalúa a true y a false al menos una vez.
 ANSWER:A
 
 B05-L04-Q21-¿Cual de las siguientes es una característica de las metodologías basadas en pruebas?
