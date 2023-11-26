@@ -1,22 +1,22 @@
-B05-L04-Q01-Pregunta 1 Noe:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
+B05-L04-Q01-Señale la definición de cobertura de sentencia:
+A. Se satisface cuando cada condición y decisión se evalúa a true y false al menos una vez.
+B. Se satisface cuando todas las condiciones toman valor true y false.
+C. Se verifica cuando todas las sentencias del programa son recorridas.
+D. Se satisface cuando cada decisión se evalúa a true y false al menos una vez.
+ANSWER:C
+
+B05-L04-Q02-Para conseguir el éxito de las pruebas es necesario usar valores buenos ¿Qué valores no debemos usar?:
+A. Usar aquellos valores que maximicen la cobertura y detecten un mayor número de fallos posibles.
+B. Proponer valores que puedan mostrar un comportamiento erróneo.
+C. Seleccionar valores situados en los límites de las clases de equivalencia.
+D. Todas son verdaderas.
 ANSWER:B
 
-B05-L04-Q02-Pregunta 2 Noe:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
-
-B05-L04-Q03-Pregunta 3 Noe:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
+B05-L04-Q03-¿Cuál de las siguientes opciones no es una estrategia de combinación para casos de prueba?:
+A. Random.
+B. PROW (Pairwise with Restrictions, Order and Weight).
+C. AETG (Automatic Efficient Test Generator).
+D. TUID (TechnoUnity Identity Dynamics).
 ANSWER:B
 
 B05-L04-Q04-Pregunta 4 Noe:
