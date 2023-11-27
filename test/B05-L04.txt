@@ -68,40 +68,40 @@ C. Pruebas de sistema.
 D. Pruebas unitarias y pruebas de integración.
 ANSWER: D
 
-B05-L04-Q11- Pregunta 1 FranHolacrack:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER: B
+B05-L04-Q11- En los niveles de prueba, ¿qué tipo de pruebas se usan normalmente en las pruebas de sistema?
+A. Pruebas funcionales o de caja negra.
+B. Pruebas estructurales o de caja blanca.
+C. Pruebas mixtas o de caja gris.
+D. Ninguna es una respuesta correcta.
+ANSWER: A
 
-B05-L04-Q12- Pregunta 2 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER: B
+B05-L04-Q12- Indique cuál no es un tipo de cobertura:
+A. Sentencias.
+B. Condiciones/Decisiones.
+C. Atributos.
+D. Múltiple de Condiciones.
+ANSWER: C
 
-B05-L04-Q13- Pregunta 3 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER: B
+B05-L04-Q13- Objetivos de la prueba de mutación:
+A. Identificar y corregir errores en el código fuente.
+B. Evaluar la eficiencia del equipo de desarrollo.
+C. Verificar la documentación del software.
+D. Diseñar nuevas pruebas de software y evaluar la calidad de las pruebas ya existentes.
+ANSWER: D
 
-B05-L04-Q14-Pregunta 4 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L04-Q14- Equivocación realizada por una persona (en este contexto, un programador).
+A. Defecto.
+B. Falta.
+C. Error.
+D. Fallo.
+ANSWER:C
 
-B05-L04-Q15-Pregunta 5 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L04-Q15- Pruebas Exhaustivas, señale la opción falsa sobre ellas:
+A. Son muy usadas en el ámbito del testing en las empresas de software.
+B. Trata todas las combinaciones válidas e inválidas.
+C. Visita todos los estados posibles del programa.
+D. Comprueba todos los puntos de entrada de ejecución.
+ANSWER:A
 
 B05-L04-Q16- ¿Cuál de los siguientes NO es uno de los objetivos de las pruebas de mutación?:
 A. Diseñar nuevas pruebas de software.
