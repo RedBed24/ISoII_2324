@@ -26,7 +26,7 @@ C. El error es una equivocación realizada por el programador y el fallo es un e
 D. El fallo lo realiza el programador. El defecto lo percibe el tester. El error lo detecta el usuario. 
 ANSWER: A
 
-B05-L04-Q05- Tenemos la necesidad de saber cuándo un programa falla para un conjunto de datos dados. ¿Quién o qué se encarga de esta función?:
+B05-L04-Q05- Tenemos la necesidad de saber cuándo un programa falla para un conjunto de datos dado. ¿Quién o qué se encarga de esta función?:
 A. Oráculo.
 B. Caso de prueba.
 C. Tester.
@@ -68,7 +68,7 @@ C. Pruebas de sistema.
 D. Pruebas unitarias y pruebas de integración.
 ANSWER: D
 
-B05-L04-Q11- En los niveles de prueba, ¿qué tipo de pruebas se usan normalmente en las pruebas de sistema?
+B05-L04-Q11- En los niveles de prueba, ¿qué tipo de pruebas se usan normalmente en las pruebas de sistema?:
 A. Pruebas funcionales o de caja negra.
 B. Pruebas estructurales o de caja blanca.
 C. Pruebas mixtas o de caja gris.
@@ -82,26 +82,26 @@ C. Atributos.
 D. Múltiple de Condiciones.
 ANSWER: C
 
-B05-L04-Q13- Objetivos de la prueba de mutación:
+B05-L04-Q13- El/Los objetivo/s de las pruebas de mutación es/son:
 A. Identificar y corregir errores en el código fuente.
 B. Evaluar la eficiencia del equipo de desarrollo.
 C. Verificar la documentación del software.
 D. Diseñar nuevas pruebas de software y evaluar la calidad de las pruebas ya existentes.
 ANSWER: D
 
-B05-L04-Q14- Equivocación realizada por una persona (en este contexto, un programador).
+B05-L04-Q14- Una equivocación realizada por una persona (en este contexto, un programador) se denomina:
 A. Defecto.
 B. Falta.
 C. Error.
 D. Fallo.
-ANSWER:C
+ANSWER: C
 
-B05-L04-Q15- Pruebas Exhaustivas, señale la opción falsa sobre ellas:
+B05-L04-Q15- Señale la opción falsa sobre las pruebas exhaustivas:
 A. Son muy usadas en el ámbito del testing en las empresas de software.
 B. Trata todas las combinaciones válidas e inválidas.
 C. Visita todos los estados posibles del programa.
 D. Comprueba todos los puntos de entrada de ejecución.
-ANSWER:A
+ANSWER: A
 
 B05-L04-Q16- ¿Cuál de los siguientes NO es uno de los objetivos de las pruebas de mutación?:
 A. Diseñar nuevas pruebas de software.
@@ -152,7 +152,7 @@ C. Aquellas que no tienen ninguna relación con la seguridad de las modificacion
 D. Aquellas que solo se aplican a situaciones específicas y no a cambios generales en el código.
 ANSWER: A
 
-B05-L04-Q23- El nivel de cobertura de un sistema es...
+B05-L04-Q23- El nivel de cobertura de un sistema es...:
 A. La cantidad de usuarios que utilizan el sistema en un momento dado.
 B. La velocidad a la que el sistema puede procesar la información.
 C. La frecuencia con la que se realizan actualizaciones en el sistema.
@@ -163,10 +163,10 @@ B05-L04-Q24- Escoge la opción verdadera sobre niveles de cobertura de un sistem
 A. La cobertura de sentencias es distinta a la de líneas de código.
 B. La cobertura de decisiónes es menos detallada (más general) que la cobertura de condiciones.
 C. El objetivo es poder añadir casos de prueba adicionales sobre las partes del sistema ya exploradas.
-D. Una parte cubierta por casos de prueba indica necesariamente que está libre de errores..
+D. Una parte cubierta por casos de prueba indica necesariamente que está libre de errores.
 ANSWER: B
 
-B05-L04-Q25-En las pruebas de mutación...
+B05-L04-Q25- En las pruebas de mutación...:
 A. Cuanto más grande sea el porcentaje de programas mutantes muertos peor es la elección de casos de prueba.
 B. Se matan los programas mutantes en los que la salida producida al probarlos sea diferente a la del programa original. 
 C. Los programas mutantes no cambian el código del programa original.
