@@ -173,39 +173,39 @@ C. Tercera opción.
 D. Cuarta opción.
 ANSWER:B
 
-B05-L05-Q26-Pregunta 1 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
+B05-L05-Q26-¿Qué es el mantenimiento?:
+A. Una metodología.
+B. Un proceso.
+C. Una etapa.
+D. Una característica.
 ANSWER:B
 
-B05-L05-Q27-Pregunta 2 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L05-Q27-¿Qué es la mantenibilidad?:
+A. Una metodología.
+B. Un proceso.
+C. Una etapa.
+D. Una característica.
+ANSWER:D
 
-B05-L05-Q28-Pregunta 3 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L05-Q28-¿Cuál NO es uno de los fines del mantenimiento?:
+A. Corregir defectos.
+B. Mejorar el rendimiento.
+C. Cambiar la versión.
+D. Adaptarlo a un cambio de entorno.
+ANSWER:C
 
-B05-L05-Q29-Pregunta 4 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L05-Q29-¿Cual de estos NO es un tipo de mantenimiento?:
+A. Perfectivo.
+B. Correctivo.
+C. Preventivo.
+D. Actualizativo.
+ANSWER:D
 
-B05-L05-Q30-Pregunta 5 Samu:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
+B05-L05-Q30-¿Cuál es la principal causa que conduce a un mantenimiento correctivo?:
+A. Estandares.
+B. Especificación/Diseño.
+C. Manejo de datos.
+D. Comprobación de errores.
 ANSWER:B
 
 B05-L05-Q31-Pregunta Extra:
