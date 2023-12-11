@@ -117,26 +117,27 @@ C. Se refiere a que el sistema no puede ser cambiado si afecta a una funcionalid
 D. En la definición no se menciona nada de la integridad.
 ANSWER:B
 
-B05-L05-Q18-Pregunta 3 Antonio:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L05-Q18-?A qué se refieren las pruebas de regresión dentro de las actividades de mantenmiento?:
+A. En esta actividad se somete el software modificado a casos de pruebas 
+previamente almacenados y por los que ya pasó..
+B. En esta actividad, el usuario comprueba, junto al personal encargado del 
+mantenimiento, la adecuación del cambio a sus necesidades.
+C. se refiere a comprobar la integración de los componentes modificados con 
+el resto dSe codifica y prueba el funcionamiento de cada componente modificado
+ANSWER:A
 
-B05-L05-Q19-Pregunta 4 Antonio:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L05-Q19-¿Qué estándares hay para las soluciones del mantenimiento de gestión:
+A. ISO 12207:2017.
+B. ISO/EIC 14764:2006.
+C. ISO 12207:2017 e ISO/EIC 14764:2006.
+D. ISO 12207:2017, ISO/EIC 14764:2006 e ISO 25000:2014.
+ANSWER:D
 
-B05-L05-Q20-Pregunta 5 Antonio:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L05-Q20-¿De dónde vienen las siglas del Principio "KISS"?:
+A. Keep it Simple, Stupid.
+B. Keep it Short and Sweet.
+C. Keep it Straightforward and Simple.
+D. Keep it Super Simple.
 
 B05-L05-Q21-Pregunta 1 Marce:
 A. Primera opción.
