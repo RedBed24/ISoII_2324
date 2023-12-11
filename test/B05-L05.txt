@@ -5,12 +5,12 @@ C. Tercera opción.
 D. Cuarta opción.
 ANSWER:B
 
-B05-L05-Q02-Pregunta 2 Noe:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L05-Q02-¿Qué pruebas se aseguran de mantener la integridad de un código?:
+A. Integración.
+B. Aceptación.
+C. Regresión.
+D. Sistema.
+ANSWER:C
 
 B05-L05-Q03-¿Cuál de las siguientes opciones sobre la dificultad del mantenimiento es falsa?:
 A. Necesidad de cambio continuo.
