@@ -103,18 +103,18 @@ C. Tercera opción.
 D. Cuarta opción.
 ANSWER:B
 
-B05-L05-Q16-Pregunta 1 Antonio:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L05-Q16-¿Cuál de estos tipos de mantenimiento es incorrecto?:
+A. Correctivo.
+B. Preventivo.
+C. Adaptativo.
+D. Corporativo.
+ANSWER:D
 
-B05-L05-Q17-Pregunta 2 Antonio:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
+B05-L05-Q17-Dentro de la definición de mantenimiento, ¿a qué se refiere que el sistema debe de preservar la integridad?:
+A. La persona o equipo que mantiene el código debe ser siempre la misma persona dentro del máximo tiempo permitido.
+B. Lo que ya funcionaba, debe seguir funcionando.
+C. Se refiere a que el sistema no puede ser cambiado si afecta a una funcionalidad anteriormente incluida.
+D. En la definición no se menciona nada de la integridad.
 ANSWER:B
 
 B05-L05-Q18-Pregunta 3 Antonio:
