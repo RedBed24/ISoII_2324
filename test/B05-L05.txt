@@ -1,8 +1,8 @@
-B05-L05-Q01-Pregunta 1 Noe:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
+B05-L05-Q01-¿Cuál de las siguientes opciones es una características de gestión de calidad a corto plazo?:
+A. Diseño paso a paso en cada nivel de descomposición.
+B. Aumento de los recursos humanos y económicos.
+C. Empleo estricto de estándares de documentación.
+D. Definición de interfaces y estructuras de datos antes de comenzar el diseño detallado.
 ANSWER:B
 
 B05-L05-Q02-¿Qué pruebas se aseguran de mantener la integridad de un código?:
