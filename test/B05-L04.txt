@@ -1,0 +1,209 @@
+B05-L04-Q01- Señale la definición de cobertura de sentencia:
+A. Se satisface cuando cada condición y decisión se evalúa a true y false al menos una vez.
+B. Se satisface cuando todas las condiciones toman valor true y false.
+C. Se verifica cuando todas las sentencias del programa son recorridas.
+D. Se satisface cuando cada decisión se evalúa a true y false al menos una vez.
+ANSWER: C
+
+B05-L04-Q02- Para conseguir el éxito de las pruebas es necesario usar valores buenos. ¿Qué valores debemos usar?:
+A. Usar aquellos valores que maximicen la cobertura y detecten un mayor número de fallos posibles.
+B. Proponer valores que puedan mostrar un comportamiento erróneo.
+C. Seleccionar valores situados en los límites de las clases de equivalencia.
+D. Todas son verdaderas.
+ANSWER: D
+
+B05-L04-Q03- ¿Cuál de las siguientes opciones no es una estrategia de combinación para casos de prueba?:
+A. Random.
+B. PROW (Pairwise with Restrictions, Order and Weight).
+C. AETG (Automatic Efficient Test Generator).
+D. TUID (TechnoUnity Identity Dynamics).
+ANSWER: B
+
+B05-L04-Q04- Señala la opción correcta relacionada con los términos error, defecto y fallo:
+A. El error lo realiza el programador. El defecto lo percibe el tester. El fallo lo detecta el usuario.
+B. El defecto es un desvío respecto al comportamiento requerido del sistema percibido por el usuario.
+C. El error es una equivocación realizada por el programador y el fallo es un error de software detectado por el tester.
+D. El fallo lo realiza el programador. El defecto lo percibe el tester. El error lo detecta el usuario. 
+ANSWER: A
+
+B05-L04-Q05- Tenemos la necesidad de saber cuándo un programa falla para un conjunto de datos dado. ¿Quién o qué se encarga de esta función?:
+A. Oráculo.
+B. Caso de prueba.
+C. Tester.
+D. BDD (Behaviour-driven development).
+ANSWER: A
+
+B05-L04-Q06- ¿Cuál es la clave de las pruebas de mutación?:
+A. Descubrir por qué algunas pruebas no detectaron ciertos mutantes.
+B. Tomar valores de prueba y combinarlos para generar otros casos de prueba.
+C. Conocer qué partes del sistema han sido probadas.
+D. Encontrar fallos antes del paso a producción.
+ANSWER: A
+
+B05-L04-Q07- ¿Qué pruebas se emplean en el entorno de preproducción?:
+A. Pruebas unitarias.
+B. Pruebas de integración.
+C. Pruebas de sistema.
+D. Pruebas unitarias y pruebas de integración.
+ANSWER: C
+
+B05-L04-Q08- Los valores de prueba suelen escogerse a partir de...:
+A. Metodologías basadas en pruebas.
+B. Clases de equivalencia, valores límite y conjeturas.
+C. Pruebas de mutación.
+D. Pruebas unitarias, pruebas de integración, pruebas de sistema y pruebas de aceptación.
+ANSWER: B
+
+B05-L04-Q09- Señala la afirmación correcta sobre el concepto de cobertura:
+A. La cobertura de decisiones ahonda más en el código que la cobertura de condiciones.
+B. Un alto nivel de cobertura no garantiza que el sistema tenga calidad.
+C. La cobertura no indica necesariamente que una parte cubierta por casos de prueba esté libre de errores.
+D. En el caso de la cobertura múltiple de condiciones, se pretende obtener el mínimo número de casos de prueba.
+ANSWER: C
+
+B05-L04-Q10- ¿Qué pruebas se emplean en el entorno de desarrollo?:
+A. Pruebas unitarias.
+B. Pruebas de integración.
+C. Pruebas de sistema.
+D. Pruebas unitarias y pruebas de integración.
+ANSWER: D
+
+B05-L04-Q11- En los niveles de prueba, ¿qué tipo de pruebas se usan normalmente en las pruebas de sistema?:
+A. Pruebas funcionales o de caja negra.
+B. Pruebas estructurales o de caja blanca.
+C. Pruebas mixtas o de caja gris.
+D. Ninguna es una respuesta correcta.
+ANSWER: A
+
+B05-L04-Q12- Indique cuál no es un tipo de cobertura:
+A. Sentencias.
+B. Condiciones/Decisiones.
+C. Atributos.
+D. Múltiple de Condiciones.
+ANSWER: C
+
+B05-L04-Q13- El/Los objetivo/s de las pruebas de mutación es/son:
+A. Identificar y corregir errores en el código fuente.
+B. Evaluar la eficiencia del equipo de desarrollo.
+C. Verificar la documentación del software.
+D. Diseñar nuevas pruebas de software y evaluar la calidad de las pruebas ya existentes.
+ANSWER: D
+
+B05-L04-Q14- Una equivocación realizada por una persona (en este contexto, un programador) se denomina:
+A. Defecto.
+B. Falta.
+C. Error.
+D. Fallo.
+ANSWER: C
+
+B05-L04-Q15- Señale la opción falsa sobre las pruebas exhaustivas:
+A. Son muy usadas en el ámbito del testing en las empresas de software.
+B. Trata todas las combinaciones válidas e inválidas.
+C. Visita todos los estados posibles del programa.
+D. Comprueba todos los puntos de entrada de ejecución.
+ANSWER: A
+
+B05-L04-Q16- ¿Cuál de los siguientes NO es uno de los objetivos de las pruebas de mutación?:
+A. Diseñar nuevas pruebas de software.
+B. Corregir el código al ver que la prueba está mal.
+C. Evaluar la calidad de las pruebas ya existentes.
+D. Todas son correctas.
+ANSWER: B
+
+B05-L04-Q17- Dentro de las metodologías basadas en pruebas, ¿cuál de las siguientes NO existe?:
+A. TDD (Test-Driven Development).
+B. ATDD (Aceptance-Test-Driven Development).
+C. BDD (Behaviour-Driven Development).
+D. ADD (Aceptance-Driven Development).
+ANSWER: D
+
+B05-L04-Q18- Indica la afirmación correcta respecto al criterio de cobertura "pairwise":
+A. La estrategia de combinación de este criterio es la del cálculo del producto cartesiano.
+B. Los casos de prueba deben visitar todos los pares de valores de dos parámetros cualesquiera.
+C. Los casos de prueba deben visitar, al menos una vez, los pares de valores de dos parámetros cualesquiera.
+D. La estrategia de combinación de este criterio es la de que cada valor se utiliza al menos en un caso caso de prueba.
+ANSWER: C
+
+B05-L04-Q19- ¿Qué diferencia tienen las pruebas de caja blanca con las de caja negra?:
+A. Las de caja blanca son funcionales y las de caja negra estructurales.
+B. En las de caja negra se conocen solo las entradas y salidas y en las de caja blanca, además, la estructura interna del programa.
+C. En las de caja blanca no nos importa lo que hay dentro y en las de caja negra sí.
+D. No existen diferencias, son lo mismo pero pueden ser llamadas con diferentes nombres.
+ANSWER: B
+
+B05-L04-Q20- Indica cual es la afirmación correcta sobre el nivel de cobertura modificada de condiciones/decisiones:
+A. Se satisface cuando cada posible valor de una condición determina la salida de la decisión al menos una vez.
+B. Se satisface cuando todas las condiciones toman valor true y false de manera que se recorra la tabla de verdad completa de la decisión.
+C. Se satisface cuando cada condición y decisión se evalúa a true y a falseal menos una vez.
+D. Se satisface cuando cada condición se evalúa a true y a false al menos una vez.
+ANSWER: A
+
+B05-L04-Q21- ¿Cuál de las siguientes es una característica de las metodologías basadas en pruebas?:
+A. Son metodologías de desarrollo software.
+B. Son metodologías de gestión y creación de pruebas.
+C. Tienen muy poco uso en la actualidad.
+D. No casan muy bien con las metodologías ágiles.
+ANSWER: A
+
+B05-L04-Q22- ¿Que son las pruebas de regresión?:
+A. Aquellas que nos garantizan la seguridad de que las nuevas modificaciónes del programa no rompen nada de lo construido anteriormente.
+B. Aquellas que garantizan que las nuevas modificaciones del programa siempre rompan algo de lo construido anteriormente.
+C. Aquellas que no tienen ninguna relación con la seguridad de las modificaciones en el programa.
+D. Aquellas que solo se aplican a situaciones específicas y no a cambios generales en el código.
+ANSWER: A
+
+B05-L04-Q23- El nivel de cobertura de un sistema es...:
+A. La cantidad de usuarios que utilizan el sistema en un momento dado.
+B. La velocidad a la que el sistema puede procesar la información.
+C. La frecuencia con la que se realizan actualizaciones en el sistema.
+D. El grado en el que ciertas partes del sistema han sido probadas.
+ANSWER: D
+
+B05-L04-Q24- Escoge la opción verdadera sobre niveles de cobertura de un sistema:
+A. La cobertura de sentencias es distinta a la de líneas de código.
+B. La cobertura de decisiónes es menos detallada (más general) que la cobertura de condiciones.
+C. El objetivo es poder añadir casos de prueba adicionales sobre las partes del sistema ya exploradas.
+D. Una parte cubierta por casos de prueba indica necesariamente que está libre de errores.
+ANSWER: B
+
+B05-L04-Q25- En las pruebas de mutación...:
+A. Cuanto más grande sea el porcentaje de programas mutantes muertos peor es la elección de casos de prueba.
+B. Se matan los programas mutantes en los que la salida producida al probarlos sea diferente a la del programa original. 
+C. Los programas mutantes no cambian el código del programa original.
+D. No lleva demasiado tiempo a los programadores probar un número grande de programas mutantes para el conjunto de los casos de prueba.
+ANSWER: B
+
+B05-L04-Q26- ¿Cuál es un tipo de prueba?:
+A. Caja negra (funcional).
+B. Caja gris (unitaria).
+C. Caja arcoíris (sistema).
+D. Caja escala de grises (integración).
+ANSWER: A
+
+B05-L04-Q27- ¿Cuál NO es un nivel de prueba?:
+A. Sistema.
+B. Integración.
+C. Unitaria.
+D. Codificación.
+ANSWER: D
+
+B05-L04-Q28- ¿Cuál es el objetivo de las pruebas?:
+A. Eliminar los errores de sintaxis.
+B. Obtener la cobertura.
+C. Encontrar fallos.
+D. Asegurar que funciona.
+ANSWER: C
+
+B05-L04-Q29- ¿Cuál NO es un framework de pruebas?:
+A. JUnit.
+B. PyTest.
+C. UnitTest.
+D. gcc.
+ANSWER: D
+
+B05-L04-Q30- El valor de la prueba se puede definir como...:
+A. Razón número de fallos encontrados entre el número de pruebas realizadas.
+B. El número de pruebas realizadas.
+C. Las pruebas no aportan valor.
+D. Razón número de pruebas realizadas entre el tiempo medio de las pruebas.
+ANSWER: A
