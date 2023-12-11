@@ -12,12 +12,12 @@ C. Tercera opción.
 D. Cuarta opción.
 ANSWER:B
 
-B05-L05-Q03-Pregunta 3 Noe:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L05-Q03-¿Cuál de las siguientes opciones sobre la dificultad del mantenimiento es falsa?:
+A. Necesidad de cambio continuo.
+B. Código heredado.
+C. Incremento de la complejidad.
+D. Mantenimiento realizado de forma sistemática
+ANSWER:D
 
 B05-L05-Q04-Pregunta 4 Noe:
 A. Primera opción.
