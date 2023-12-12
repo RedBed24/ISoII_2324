@@ -98,7 +98,7 @@ ANSWER:C
 
 B05-L05-Q15-Señale la verdadera sobre coste-beneficio:
 A. Mayor Mantenibilidad -> menor coste de mantenimiento.
-B. Mayor Mantenibilidad -> Mayor coste de mantenimiento.
+B. Mayor Mantenibilidad -> mayor coste de mantenimiento.
 C. Mejora de la Mantenibilidad -> no es necesario un coste.
 D. Menor Mantenibilidad -> menor coste de mantenimiento.
 ANSWER:A
