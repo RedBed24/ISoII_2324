@@ -68,40 +68,40 @@ C. Tercera opción.
 D. Cuarta opción.
 ANSWER:B
 
-B05-L05-Q11-Pregunta 1 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L05-Q11-¿Qué actividad suele poseer más porcentaje de esfuerzo dentro del mantenimiento de un proyecto?
+A. Implementación.
+B. Pruebas.
+C. Diseño.
+D. Análisis y captura de requisitos.
+ANSWER:A
 
-B05-L05-Q12-Pregunta 2 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L05-Q12-Características posibles de código heredado (marca la falsa).
+A. Desarrollado por personas "hace tiempo", en algunos casos ya ni trabajan en la empresa.
+B. Fueron objeto de múltiples actividades de mantenimiento.
+C. Software que hereda características de aplicaciones nuevas, pero el proyecto se empieza desde 0.
+D. Desarrollado e implementado sobre herramientas en desuso.
+ANSWER:C
 
-B05-L05-Q13-Pregunta 3 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L05-Q13-¿Qué significa F.I.R.S.T (Testing)?
+A. First - Independent - Repair - Self Validating - Task manager
+B. Fast - Independent - Repair - Self Validating - Task manager
+C. First - Independent - Repeatable - Soft - Timely
+D. Fast - Independent - Repeatable - Self Validating - Timely
+ANSWER:D
 
-B05-L05-Q14-Pregunta 4 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L05-Q14-Indique cuál NO es una actividad del mantenimiento.
+A. Pruebas de aceptación.
+B. Diseño del cambio.
+C. Conjetura de errores (error-guessing).
+D. Análisis de impacto y de costes/beneficios.
+ANSWER:C
 
-B05-L05-Q15-Pregunta 5 Fran:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L05-Q15-Señale la verdadera sobre coste-beneficio:
+A. Mayor Mantenibilidad -> menor coste de mantenimiento.
+B. Mayor Mantenibilidad -> Mayor coste de mantenimiento.
+C. Mejora de la Mantenibilidad -> no es necesario un coste.
+D. Menor Mantenibilidad -> menor coste de mantenimiento.
+ANSWER:A
 
 B05-L05-Q16-¿Cuál de estos tipos de mantenimiento es incorrecto?:
 A. Correctivo.
