@@ -152,19 +152,19 @@ C. Es un proceso que garantiza la ausencia total de riesgos y costos en el desar
 D. Consiste en mantener el software en el tiempo sin realizar ningún cambio o mejora.
 ANSWER:A
 
-B05-L05-Q23-Pregunta 3 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
+B05-L05-Q23- ¿Qué principio del "Clean Code" dice que una función debe hacer lo que su nombre expresa claramente?
+A. DRY.
+B. Least Surprise.
+C. KISS.
+D. Single Responsibility.
 ANSWER:B
 
-B05-L05-Q24-Pregunta 4 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L05-Q24- ¿Por qué es importante el departamento de atención a usuarios?
+A. Porque los usuarios de la empresa son los que tendrán problemas con la utilización del sistema.
+B. Para organizar eventos sociales para los usuarios y fomentar la camaradería.
+C. Para gestionar la contabilidad de la empresa y automatizar la atención a los usuarios.
+D. El departamento de atención a usuarios no tiene ninguna importancia en una empresa.
+ANSWER:A
 
 B05-L05-Q25-Pregunta 5 Marce:
 A. Primera opción.
