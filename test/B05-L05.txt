@@ -138,19 +138,19 @@ C. Keep it Straightforward and Simple.
 D. Keep it Super Simple.
 ANSWER: A
 
-B05-L05-Q21-Pregunta 1 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
+B05-L05-Q21- ¿Cual de los siguientes NO es un problema del código heredado para la Gestión del Mantenimiento?:
+A. Está construido con técnicas y herramientas a menudo en desuso.
+B. Normalmente su mantenimiento resulta mucho más costoso que crear un nuevo código.
+C. Normalmente las personas que lo desarrollaron ya no pertenecen al colectivo responsable en este momento del desarrollo o mantenimiento.
+D. Desechar el software y reescribirlo para adaptarlo a las nuevas tecnologías o cambios es muhcas veces inadecuado.
 ANSWER:B
 
-B05-L05-Q22-Pregunta 2 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L05-Q22- ¿Qué es la reingeniería del software?
+A. El proceso que se encarga de llevar a cabo el mantenimiento evolutivo de sistemas de información existentes asumiendo riesgos y costes bajos.
+B. El proceso llevado a cabo con el objetivo de obtener información o un diseño a partir de un producto software.
+C. Es un proceso que garantiza la ausencia total de riesgos y costos en el desarrollo del software.
+D. Consiste en mantener el software en el tiempo sin realizar ningún cambio o mejora.
+ANSWER:A
 
 B05-L05-Q23-Pregunta 3 Marce:
 A. Primera opción.
