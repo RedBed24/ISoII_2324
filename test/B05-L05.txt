@@ -166,12 +166,12 @@ C. Para gestionar la contabilidad de la empresa y automatizar la atención a los
 D. El departamento de atención a usuarios no tiene ninguna importancia en una empresa.
 ANSWER:A
 
-B05-L05-Q25-Pregunta 5 Marce:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L05-Q25- ¿A qué se refiere la letra "F" en los principios F.I.R.S.T en testing?
+A. Flexible: Los tests deben ser adaptables a cualquier cambio en el código.
+B. Falible: Los tests deben permitir fallos para probar la capacidad de recuperación del sistema.
+C. Fast: Los tests deben correr rápido para evitar la pereza de ejecutarlos y detectar errores pronto.
+D. Fantástico: Los tests deben ser extraordinarios y sorprendentes en su implementación.
+ANSWER:C
 
 B05-L05-Q26- ¿Qué es el mantenimiento?:
 A. Una metodología.
