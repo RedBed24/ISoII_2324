@@ -1,23 +1,23 @@
-B05-L05-Q01-¿Cuál de las siguientes opciones es una características de gestión de calidad a corto plazo?:
+B05-L05-Q01- ¿Cuál de las siguientes opciones es una características de gestión de calidad a corto plazo?:
 A. Diseño paso a paso en cada nivel de descomposición.
 B. Aumento de los recursos humanos y económicos.
 C. Empleo estricto de estándares de documentación.
 D. Definición de interfaces y estructuras de datos antes de comenzar el diseño detallado.
-ANSWER:B
+ANSWER: B
 
-B05-L05-Q02-¿Qué pruebas se aseguran de mantener la integridad de un código?:
+B05-L05-Q02- ¿Qué pruebas aseguran de mantener la integridad de un código?:
 A. Integración.
 B. Aceptación.
 C. Regresión.
 D. Sistema.
-ANSWER:C
+ANSWER: C
 
-B05-L05-Q03-¿Cuál de las siguientes opciones sobre la dificultad del mantenimiento es falsa?:
+B05-L05-Q03- ¿Cuál de las siguientes opciones sobre la dificultad del mantenimiento es falsa?:
 A. Necesidad de cambio continuo.
 B. Código heredado.
 C. Incremento de la complejidad.
-D. Mantenimiento realizado de forma sistemática
-ANSWER:D
+D. Mantenimiento realizado de forma sistemática.
+ANSWER: D
 
 B05-L05-Q04-Pregunta 4 Noe:
 A. Primera opción.
@@ -33,112 +33,110 @@ C. Tercera opción.
 D. Cuarta opción.
 ANSWER:B
 
-B05-L05-Q06-Pregunta 1 Dani:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L05-Q06- ¿Cuál es el objetivo principal del mantenimiento correctivo?:
+A. Adaptarse a cambios en el entorno de trabajo: hardware, software y legal.
+B. Localizar y eliminar defectos que potencialmente pueden causar fallos.
+C. Mejorar o añadir funcionalidad debido a cambios en los requisitos de un producto software.
+D. Modificar el software para mejorar sus propiedades sin alterar sus especificaciones funcionales.
+ANSWER: B
 
-B05-L05-Q07-Pregunta 2 Dani:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L05-Q07- ¿Cuál es el objetivo principal del mantenimiento preventivo?:
+A. Adaptarse a cambios en el entorno de trabajo: hardware, software y legal.
+B. Localizar y eliminar defectos que potencialmente pueden causar fallos.
+C. Mejorar o añadir funcionalidad debido a cambios en los requisitos de un producto software.
+D. Modificar el software para mejorar sus propiedades sin alterar sus especificaciones funcionales.
+ANSWER: D
 
-B05-L05-Q08-Pregunta 3 Dani:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L05-Q08- ¿En qué tipo de mantenimiento suelen invertir más las empresas?:
+A. Perfectivo.
+B. Correctivo.
+C. Preventivo.
+D. Adaptativo.
+ANSWER: A
 
-B05-L05-Q09-Pregunta 4 Dani:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L05-Q09- El mantenimiento evolutivo es otro nombre utilizado para referirse al mantenimiento...:
+A. Preventivo.
+B. Correctivo.
+C. Perfectivo.
+D. Adaptativo.
+ANSWER: C
 
-B05-L05-Q10-Pregunta 5 Dani:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L05-Q10- ¿Cuáles son las fases de la reingeniería?:
+A. Ingeniería inversa, reestructuración e ingeniería directa.
+B. Ingeniería correctiva, adaptativa, perfectiva y preventiva.
+C. Mantenibilidad, gestión estructurada y documentación.
+D. Analizabilidad, reusabilidad y modificabilidad.
+ANSWER: A
 
-B05-L05-Q11-¿Qué actividad suele poseer más porcentaje de esfuerzo dentro del mantenimiento de un proyecto?
+B05-L05-Q11- ¿Qué actividad suele poseer más porcentaje de esfuerzo dentro del mantenimiento de un proyecto?:
 A. Implementación.
 B. Pruebas.
 C. Diseño.
 D. Análisis y captura de requisitos.
-ANSWER:A
+ANSWER: A
 
-B05-L05-Q12-Características posibles de código heredado (marca la falsa).
-A. Desarrollado por personas "hace tiempo", en algunos casos ya ni trabajan en la empresa.
+B05-L05-Q12- Marca la opción falsa sobre las características posibles de código heredado:
+A. Desarrollado por personas "hace tiempo". En algunos casos, ya ni trabajan en la empresa.
 B. Fueron objeto de múltiples actividades de mantenimiento.
-C. Software que hereda características de aplicaciones nuevas, pero el proyecto se empieza desde 0.
+C. Software que hereda características de aplicaciones nuevas, pero el proyecto se empieza desde cero.
 D. Desarrollado e implementado sobre herramientas en desuso.
-ANSWER:C
+ANSWER: C
 
-B05-L05-Q13-¿Qué significa F.I.R.S.T (Testing)?
-A. First - Independent - Repair - Self Validating - Task manager
-B. Fast - Independent - Repair - Self Validating - Task manager
-C. First - Independent - Repeatable - Soft - Timely
-D. Fast - Independent - Repeatable - Self Validating - Timely
-ANSWER:D
+B05-L05-Q13- ¿Qué significa F.I.R.S.T (Testing)?:
+A. First - Independent - Repair - Self Validating - Task manager.
+B. Fast - Independent - Repair - Self Validating - Task manager.
+C. First - Independent - Repeatable - Soft - Timely.
+D. Fast - Independent - Repeatable - Self Validating - Timely.
+ANSWER: D
 
-B05-L05-Q14-Indique cuál NO es una actividad del mantenimiento.
+B05-L05-Q14- Indique cuál NO es una actividad del mantenimiento:
 A. Pruebas de aceptación.
 B. Diseño del cambio.
-C. Conjetura de errores (error-guessing).
+C. Conjetura de errores.
 D. Análisis de impacto y de costes/beneficios.
-ANSWER:C
+ANSWER: C
 
-B05-L05-Q15-Señale la verdadera sobre coste-beneficio:
+B05-L05-Q15- Señale la verdadera sobre coste-beneficio:
 A. Mayor Mantenibilidad -> menor coste de mantenimiento.
 B. Mayor Mantenibilidad -> mayor coste de mantenimiento.
 C. Mejora de la Mantenibilidad -> no es necesario un coste.
 D. Menor Mantenibilidad -> menor coste de mantenimiento.
-ANSWER:A
+ANSWER: A
 
-B05-L05-Q16-¿Cuál de estos tipos de mantenimiento es incorrecto?:
+B05-L05-Q16- ¿Cuál de estos tipos de mantenimiento es incorrecto?:
 A. Correctivo.
 B. Preventivo.
 C. Adaptativo.
 D. Corporativo.
-ANSWER:D
+ANSWER: D
 
-B05-L05-Q17-Dentro de la definición de mantenimiento, ¿a qué se refiere que el sistema debe de preservar la integridad?:
+B05-L05-Q17- Dentro de la definición de mantenimiento, ¿a qué se refiere que el sistema deba preservar la integridad?:
 A. La persona o equipo que mantiene el código debe ser siempre la misma persona dentro del máximo tiempo permitido.
 B. Lo que ya funcionaba, debe seguir funcionando.
 C. Se refiere a que el sistema no puede ser cambiado si afecta a una funcionalidad anteriormente incluida.
 D. En la definición no se menciona nada de la integridad.
-ANSWER:B
+ANSWER: B
 
-B05-L05-Q18-?A qué se refieren las pruebas de regresión dentro de las actividades de mantenmiento?:
-A. En esta actividad se somete el software modificado a casos de pruebas 
-previamente almacenados y por los que ya pasó..
-B. En esta actividad, el usuario comprueba, junto al personal encargado del 
-mantenimiento, la adecuación del cambio a sus necesidades.
-C. se refiere a comprobar la integración de los componentes modificados con 
-el resto dSe codifica y prueba el funcionamiento de cada componente modificado
-ANSWER:A
+B05-L05-Q18- ¿A qué se refieren las pruebas de regresión dentro de las actividades de mantenmiento?:
+A. En esta actividad, se somete el software modificado a casos de pruebas previamente almacenados y por los que ya pasó...
+B. En esta actividad, el usuario comprueba, junto al personal encargado del mantenimiento, la adecuación del cambio a sus necesidades.
+C. Se refiere a comprobar la integración de los componentes modificados con el resto.
+D. Se codifica y prueba el funcionamiento de cada componente modificado.
+ANSWER: A
 
-B05-L05-Q19-¿Qué estándares hay para las soluciones del mantenimiento de gestión:
+B05-L05-Q19- ¿Qué estándares hay para las soluciones del mantenimiento de gestión?:
 A. ISO 12207:2017.
 B. ISO/EIC 14764:2006.
 C. ISO 12207:2017 e ISO/EIC 14764:2006.
 D. ISO 12207:2017, ISO/EIC 14764:2006 e ISO 25000:2014.
-ANSWER:D
+ANSWER: D
 
-B05-L05-Q20-¿De dónde vienen las siglas del Principio "KISS"?:
+B05-L05-Q20- ¿De dónde vienen las siglas del Principio "KISS"?:
 A. Keep it Simple, Stupid.
 B. Keep it Short and Sweet.
 C. Keep it Straightforward and Simple.
 D. Keep it Super Simple.
-ANSWER:A
+ANSWER: A
 
 B05-L05-Q21-Pregunta 1 Marce:
 A. Primera opción.
@@ -175,45 +173,38 @@ C. Tercera opción.
 D. Cuarta opción.
 ANSWER:B
 
-B05-L05-Q26-¿Qué es el mantenimiento?:
+B05-L05-Q26- ¿Qué es el mantenimiento?:
 A. Una metodología.
 B. Un proceso.
 C. Una etapa.
 D. Una característica.
-ANSWER:B
+ANSWER: B
 
-B05-L05-Q27-¿Qué es la mantenibilidad?:
+B05-L05-Q27- ¿Qué es la mantenibilidad?:
 A. Una metodología.
 B. Un proceso.
 C. Una etapa.
 D. Una característica.
-ANSWER:D
+ANSWER: D
 
-B05-L05-Q28-¿Cuál NO es uno de los fines del mantenimiento?:
+B05-L05-Q28- ¿Cuál NO es uno de los fines del mantenimiento?:
 A. Corregir defectos.
 B. Mejorar el rendimiento.
 C. Cambiar la versión.
 D. Adaptarlo a un cambio de entorno.
-ANSWER:C
+ANSWER: C
 
-B05-L05-Q29-¿Cual de estos NO es un tipo de mantenimiento?:
+B05-L05-Q29- ¿Cual de estos NO es un tipo de mantenimiento?:
 A. Perfectivo.
 B. Correctivo.
 C. Preventivo.
 D. Actualizativo.
-ANSWER:D
+ANSWER: D
 
-B05-L05-Q30-¿Cuál es la principal causa que conduce a un mantenimiento correctivo?:
-A. Estandares.
+B05-L05-Q30- ¿Cuál es la principal causa que conduce a un mantenimiento correctivo?:
+A. Estándares.
 B. Especificación/Diseño.
 C. Manejo de datos.
 D. Comprobación de errores.
-ANSWER:B
-
-B05-L05-Q31-Pregunta Extra:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+ANSWER: B
 
