@@ -19,19 +19,19 @@ C. Incremento de la complejidad.
 D. Mantenimiento realizado de forma sistemática.
 ANSWER: D
 
-B05-L05-Q04-Pregunta 4 Noe:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L05-Q04-¿Cuál de las siguientes opciones no es una característica dentro de ISO 25010:2011?:
+A. Modularidad.
+B. Reusabilidad.
+C. Capacidad para ser probado.
+D. Optimización.
+ANSWER:D
 
-B05-L05-Q05-Pregunta 5 Noe:
-A. Primera opción.
-B. Opción correcta.
-C. Tercera opción.
-D. Cuarta opción.
-ANSWER:B
+B05-L05-Q05-¿Qué significa DRY?:
+A. Don’t Repeat Yourself.
+B. Democratic Republic of Yemen.
+C. Designated Reader for Youth.
+D. Todas son falsas.
+ANSWER:A
 
 B05-L05-Q06- ¿Cuál es el objetivo principal del mantenimiento correctivo?:
 A. Adaptarse a cambios en el entorno de trabajo: hardware, software y legal.
