@@ -19,19 +19,19 @@ C. Incremento de la complejidad.
 D. Mantenimiento realizado de forma sistemática.
 ANSWER: D
 
-B05-L05-Q04-¿Cuál de las siguientes opciones no es una característica dentro de ISO 25010:2011?:
+B05-L05-Q04- ¿Cuál de las siguientes opciones no es una característica dentro de ISO 25010:2011?:
 A. Modularidad.
 B. Reusabilidad.
 C. Capacidad para ser probado.
 D. Optimización.
-ANSWER:D
+ANSWER: D
 
-B05-L05-Q05-¿Qué significa DRY?:
+B05-L05-Q05- ¿Qué significa DRY?:
 A. Don’t Repeat Yourself.
 B. Democratic Republic of Yemen.
 C. Designated Reader for Youth.
 D. Todas son falsas.
-ANSWER:A
+ANSWER: A
 
 B05-L05-Q06- ¿Cuál es el objetivo principal del mantenimiento correctivo?:
 A. Adaptarse a cambios en el entorno de trabajo: hardware, software y legal.
@@ -118,7 +118,7 @@ D. En la definición no se menciona nada de la integridad.
 ANSWER: B
 
 B05-L05-Q18- ¿A qué se refieren las pruebas de regresión dentro de las actividades de mantenmiento?:
-A. En esta actividad, se somete el software modificado a casos de pruebas previamente almacenados y por los que ya pasó...
+A. En esta actividad, se somete el software modificado a casos de pruebas previamente almacenados y por los que ya pasó.
 B. En esta actividad, el usuario comprueba, junto al personal encargado del mantenimiento, la adecuación del cambio a sus necesidades.
 C. Se refiere a comprobar la integración de los componentes modificados con el resto.
 D. Se codifica y prueba el funcionamiento de cada componente modificado.
@@ -143,35 +143,35 @@ A. Está construido con técnicas y herramientas a menudo en desuso.
 B. Normalmente su mantenimiento resulta mucho más costoso que crear un nuevo código.
 C. Normalmente las personas que lo desarrollaron ya no pertenecen al colectivo responsable en este momento del desarrollo o mantenimiento.
 D. Desechar el software y reescribirlo para adaptarlo a las nuevas tecnologías o cambios es muhcas veces inadecuado.
-ANSWER:B
+ANSWER: B
 
-B05-L05-Q22- ¿Qué es la reingeniería del software?
+B05-L05-Q22- ¿Qué es la reingeniería del software?:
 A. El proceso que se encarga de llevar a cabo el mantenimiento evolutivo de sistemas de información existentes asumiendo riesgos y costes bajos.
 B. El proceso llevado a cabo con el objetivo de obtener información o un diseño a partir de un producto software.
 C. Es un proceso que garantiza la ausencia total de riesgos y costos en el desarrollo del software.
 D. Consiste en mantener el software en el tiempo sin realizar ningún cambio o mejora.
-ANSWER:A
+ANSWER: A
 
-B05-L05-Q23- ¿Qué principio del "Clean Code" dice que una función debe hacer lo que su nombre expresa claramente?
+B05-L05-Q23- ¿Qué principio del "Clean Code" dice que una función debe hacer lo que su nombre expresa claramente?:
 A. DRY.
 B. Least Surprise.
 C. KISS.
 D. Single Responsibility.
-ANSWER:B
+ANSWER: B
 
-B05-L05-Q24- ¿Por qué es importante el departamento de atención a usuarios?
+B05-L05-Q24- ¿Por qué es importante el departamento de atención a usuarios?:
 A. Porque los usuarios de la empresa son los que tendrán problemas con la utilización del sistema.
 B. Para organizar eventos sociales para los usuarios y fomentar la camaradería.
 C. Para gestionar la contabilidad de la empresa y automatizar la atención a los usuarios.
 D. El departamento de atención a usuarios no tiene ninguna importancia en una empresa.
-ANSWER:A
+ANSWER: A
 
-B05-L05-Q25- ¿A qué se refiere la letra "F" en los principios F.I.R.S.T en testing?
+B05-L05-Q25- ¿A qué se refiere la letra "F" en los principios F.I.R.S.T en testing?:
 A. Flexible: Los tests deben ser adaptables a cualquier cambio en el código.
 B. Falible: Los tests deben permitir fallos para probar la capacidad de recuperación del sistema.
 C. Fast: Los tests deben correr rápido para evitar la pereza de ejecutarlos y detectar errores pronto.
 D. Fantástico: Los tests deben ser extraordinarios y sorprendentes en su implementación.
-ANSWER:C
+ANSWER: C
 
 B05-L05-Q26- ¿Qué es el mantenimiento?:
 A. Una metodología.
